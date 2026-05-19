@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Commander"
         },
         {
             "card_name": "The Eye of Nagakabouros",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Commander"
         },
         {
             "card_name": "Nagakabouros, Resplendent",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Commander"
         },
         {
             "card_name": "Butcher's Bridge",
@@ -1856,5 +1856,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 3
 }

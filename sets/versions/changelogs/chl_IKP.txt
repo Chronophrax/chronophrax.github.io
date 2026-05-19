@@ -1,4 +1,26 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Illaoi, Kraken Priestess
+
+The Eye of Nagakabouros
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Illaoi, Kraken Priestess
+
+The Eye of Nagakabouros
+
+Invoke Nagakabouros
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

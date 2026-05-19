@@ -19,7 +19,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Commander",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42,7 +42,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Commander",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1031,7 +1031,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Commander",
             "image_type": "png",
             "v_mana": ""
         },

@@ -1,7 +1,9 @@
 ﻿[
+	{ "cards": ["Commander"], "title": "Commanders" },
+	{ "cards":  [ "GU" ] },
 	{ "cards":  [ "G"] },
 	{ "cards":  [ "U" ] },
-	{ "cards":  [ "GU" ] },
 	{ "cards":  [ "C" ] },
+	{ "cards":  [ "L" ] },
 	{ "title": "Tokens", "cards":  [ "token" ] }
 ]
