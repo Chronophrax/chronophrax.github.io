@@ -1,5 +1,7 @@
 ﻿[
-	{ "cards":  [ "G", "U", "GU" ] },
-	{ "cards":  [ "basic" ] },
+	{ "cards":  [ "G"] },
+	{ "cards":  [ "U" ] },
+	{ "cards":  [ "GU" ] },
+	{ "cards":  [ "C" ] },
 	{ "title": "Tokens", "cards":  [ "token" ] }
 ]
