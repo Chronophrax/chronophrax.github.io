@@ -1,0 +1,1545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>IKP</name>
+			<longname>League of Legends Set, Illaoi</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-19</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Illaoi, Kraken Priestess</name>
+			<text>Partner with The Eye of Nagakabouros
+Ward—Tap an untapped creature you control with greater power and toughness than Illaoi.
+Creatures attack and block each combat if able.
+Whenever Illaoi enters or attacks, Invoke Nagakabouros, then learn.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/0.png" num="1">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2GGUU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Eye of Nagakabouros</name>
+			<text>Partner with Illaoi, Kraken Priestess
+Indestructible, ward {8}
+Sea monsters you control have base power and toughness 8/8, and have trample and hexproof from noncreatures.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/1.png" num="2">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Kindred Artifact — Kraken</type>
+				<maintype>Artifact</maintype>
+				<manacost>4GGUU</manacost>
+				<cmc>8</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nagakabouros, Resplendent</name>
+			<text>Protection from players that haven&apos;t attacked this turn.
+At the end of each player&apos;s turn, they sacrifice each creature they control that isn&apos;t a sea monster and could&apos;ve attacked this turn, but didn&apos;t.
+If Nagakabouros would be put into exile or a graveyard from anywhere, put it on the bottom of its owner&apos;s library instead, then draw a card.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/2.png" num="55">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Kraken God</type>
+				<maintype>Creature</maintype>
+				<manacost>8GU</manacost>
+				<cmc>10</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eccentric Explorer</name>
+			<text>Defender
+Whenever another sea monster enters under your control, Eccentric Explorer explores.
+Whenever you explore a Lesson, learn.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/3.png" num="40">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thrash of Nagakabouros</name>
+			<text>Replicate—Tap an untapped sea monster you control. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)
+Destroy target artifact, enchantment, or creature with flying unless its controller pays {X}.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/4.png" num="27">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Octopus</type>
+				<maintype>Instant</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Allure of the Abyss</name>
+			<text>Whenever you attack a player, or a player attacks you, draw a card, then you may put a land card from you hand onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/5.png" num="31">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Kraken</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recall Those Who Failed</name>
+			<text>Reveal the bottom six cards of your library. Put all land cards and/or creature cards revealed this way into your hand. Then exile the rest.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/6.png" num="57">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jaull-fish</name>
+			<text>Trample
+When Jaull-fish is dealt lethal damage, create a number of tapped Treasure tokens equal to its power.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/7.png" num="47">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1GUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Something in the Water</name>
+			<text>Cast Something in the Water only during the declare attackers step. 
+Skip your next declare blockers step.
+For each creature attacking you, reveal the bottom card of your library, if its a sea monster creature card, put it onto the battlefield blocking it. Otherwise, draw it.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/8.png" num="63">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Leviathan</type>
+				<maintype>Instant</maintype>
+				<manacost>3GUU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Serpent Isles Navigator</name>
+			<text>Islands you control have &quot;{T}: Add {U}{U}. Spend this mana only to cast a sea monster spell.&quot; (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/9.png" num="17">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harsh Lesson</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control.
+At the end of each opponent&apos;s declare attackers step, if they control a creature that could&apos;ve attacked and didn&apos;t, return this Lesson from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/10.png" num="44">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GGU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Leap of Faith</name>
+			<text>Invoke Nagakabouros three times.
+Sea monsters you control gain trample, haste, and indestructible until end of turn.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/11.png" num="53">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Kraken Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>1GGUU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kraken Tentacle IKP</name>
+			<text>This creature gets +1/+1 for each other sea monster you control.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/12.png" num="2">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Kraken Tentacle</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Iascylla, Matron of Monsters</name>
+			<text>Cascade
+At the beginning of your upkeep, if you haven&apos;t been dealt combat damage since your last turn, Iascylla gains &quot;Sea monster creature spells you cast from your hand have cascade.&quot; until you&apos;re dealt combat damage.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/13.png" num="45">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Kraken Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Eye</name>
+			<text>You may look at the bottom card of your library at any time.
+You may play lands and cast sea monster spells from the bottom of your library. Whenever you play a card this way, scry 1.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/14.png" num="29">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunk Cost Teachings</name>
+			<text>Target spell&apos;s controller puts it on the bottom of their library unless they pay {1} for each sea monster you control. If they do, draw the bottom card of your library.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/15.png" num="23">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Beast From Below</name>
+			<text>When The Beast From Below enters, draw the bottom X cards of your library, where X is the number of cards in your hand. Then, put any number of cards from your hand on the bottom of your library. The Beast From Below deals that much damage to that up to that many target creatures.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/16.png" num="35">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>3GGUU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Test of Spirit</name>
+			<text>Each opponent creates The Vessel, a legendary 0/* Spirit creature token with:
+• The Vessel&apos;s toughness is equal to your life total, it can&apos;t attack, and it must block if able.
+• Whenever The Vessel is dealt combat damage, you lose that much life.
+• Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/17.png" num="65">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Kraken Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sink to the Bottom</name>
+			<text>As an additional cost to cast this spell, put X cards from your hand on the bottom of your library.
+Put X target attacking creatures on the bottom of their owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/18.png" num="62">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Serpent</type>
+				<maintype>Instant</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inspirited Idol</name>
+			<text>Defender
+Sea monsters you control have ward {1}. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/19.png" num="46">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Kraken Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vicious Platewyrm</name>
+			<text>Vigilance
+Whenever Vicious Platewyrm blocks, it gets +2/+2 and gains trample until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/20.png" num="67">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Voice of the Sea</name>
+			<text>The first sea monster spell you cast each turn costs {G}{G}{U}{U} less to cast. This effect reduces only the amount of colored mana you pay.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/21.png" num="68">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GGUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrecker&apos;s Bay</name>
+			<text>{T}: Add {G}{G}. Activate only if a sea monster attacked or blocked this turn. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/22.png" num="83">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shipwreck Hoarder</name>
+			<text>Defender
+Protection from vehicles
+Whenever an attacking creature is dealt lethal combat damage, its controller chooses one—
+• Put it on the bottom of its owner&apos;s library.
+• You create two tapped treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/23.png" num="20">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>UUUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parasitic Sharkling</name>
+			<text>Flash
+You can&apos;t cast Parasitic Sharkling unless a creature was dealt combat damage this turn.
+You may cast this card from your graveyard as long as a creature was dealt combat damage this turn.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/24.png" num="56">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sefirsa, Scourge of the Deep</name>
+			<text>Flying, trample, islandwalk
+At the beginning of your upkeep, if you haven&apos;t been dealt combat damage since your last turn, Sefirsa gains &quot;You may look at the bottom card of your library at any time.&quot; and &quot;You may play lands and cast sea monster spells from the bottom of your library without paying their mana costs.&quot; until you&apos;re dealt combat damage.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/25.png" num="61">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Always Recover the Cargo</name>
+			<text>When target creature dies this turn, reveal the bottom X cards of your library, where X is its toughness.
+Put a land card, a creature card, and/or an artifact card revealed this way into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/26.png" num="32">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Riptide Sermon</name>
+			<text>Invoke Nagakabouros X times.
+Draw the bottom X cards of your library.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/27.png" num="59">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Kraken Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ensnared by Tentacles</name>
+			<text>Until end of turn, target Octopus and/or Kraken creature can block 7 additional creatures and gains &quot;Whenever this creature blocks a creature, that creature&apos;s controller may pay {2} or choose one—
+• Return it to its owner&apos;s hand.
+• Tap it, put two stun counters on it, and remove it from combat.&quot;</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/28.png" num="7">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Octopus</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Slaughterdocks</name>
+			<text>{T}: Put the bottom card of your library into your graveyard. You lose 1 life.
+{T}: Exile a sea monster card from your graveyard. Add {U} and/or {G} for each of those symbols in its mana cost.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/29.png" num="79">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ripper&apos;s Bay</name>
+			<text>{T}: Add {U}{U}. Activate only if a sea monster attacked or blocked this turn. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/30.png" num="78">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Vessel IKP</name>
+			<text>The Vessel&apos;s toughness is equal to your life total, it can&apos;t attack, and it must block if able.
+Whenever The Vessel is dealt combat damage, you lose that much life.
+Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/31.png" num="1">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Redwing Hammersnout</name>
+			<text>Whenever a sea monster you control attacks, it gains flying and trample until end of turn. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/32.png" num="58">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Feasting</name>
+			<text>You must attack and block with at least one creature each combat if able.
+Whenever one or more sea monsters you control deal and/or are dealt combat damage, draw the bottom two cards of your library, then discard a card.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/33.png" num="42">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Leviathan</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Five-Punch Pablo</name>
+			<text>Defender
+Pablo can&apos;t block alone.
+At the beginning of your upkeep, if you haven&apos;t been dealt combat damage since your last turn, basic lands you control gain &quot;{T}: Add {G}{U}.&quot; until you&apos;re dealt combat damage.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/34.png" num="41">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>GGU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angel, Adamant Brawler</name>
+			<text>Defender, deathtouch, indestructible
+Whenever Angel is dealt damage, she gets +1/+0 until the end of your next turn for each 1 damage dealt and loses defender.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/35.png" num="33">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>GGGU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devourer of the Depths</name>
+			<text>Defender
+Opponents must attack with at least one nontoken creature each combat if able.
+Whenever Devourer of the Depths blocks a creature, tap it. If you did, exile that creature until this creature leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/36.png" num="5">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fear What Hungers</name>
+			<text>Exile target creature you don&apos;t control until target sea monster you control leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/37.png" num="8">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Truth Bearer&apos;s Teachings</name>
+			<text>Draw the top or bottom card of your library for each sea monster you control, then Invoke Nagakabouros.
+At the end of each opponent&apos;s declare attackers step, if they control a creature that could&apos;ve attacked and didn&apos;t, return this lesson from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/38.png" num="66">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Buhru Lookout</name>
+			<text>Whenever a sea monster you control deals combat damage to a player, choose one—
+• Draw a card, then put a card from your hand on the bottom of your library.
+• Invoke Nagakabouros.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/39.png" num="37">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buhru Leader</name>
+			<text>Sea monster spells you cast have convoke.
+Whenever you cast Lesson spell, untap each creature you control.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/40.png" num="36">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood in the Water</name>
+			<text>As Blood in the Water enters, each player chooses sink or swim.
+Permanents controlled by players who chose sink enter tapped.
+Players who chose swim must attack with at least one nontoken creature each combat if able.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/41.png" num="4">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leo&apos;lei Tidesoul</name>
+			<text>Flying, ward {1}
+Whenever you draw the top or bottom card of your library, draw the other.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/42.png" num="11">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great Mother&apos;s Invocation</name>
+			<text>Invoke Nagakabouros.
+At the end of each opponent&apos;s declare attackers step, if they control a creature that could&apos;ve attacked and didn&apos;t, return this lesson from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/43.png" num="43">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invoke Nagakabouros IKP</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/44.png" num="1">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Butcher&apos;s Bridge</name>
+			<text>Butcher&apos;s Bridge enters tapped, and doesn&apos;t untap during your untap step.
+Whenever one or more sea monsters are dealt lethal damage, untap Butcher&apos;s Bridge.
+{T}: Add {C}{G}{U}.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/45.png" num="72">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mindshirk Cephalid</name>
+			<text>Flash
+Mindshirk Cephalid can&apos;t attack or block.
+When Mindshirk Cephalid enters, gain control of target attacking creature for for as long as this creature remains on the battlefield.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/46.png" num="54">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepwater Scourge</name>
+			<text>Defender, reach
+You may look at the bottom card of your library at any time.
+{GU}, Exile the bottom card of your library: Deepwater Scourge can block an additional creature this turn. Activate no more than seven times each turn</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/47.png" num="38">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>GUUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Command Tower</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/48.png" num="73">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Golden Kraken</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.
+Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/49.png" num="69">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tempestuous Travels</name>
+			<text>Whenever a creature with flying attacks, it loses flying until end of turn.
+Whenever you attack, target attacking creature can&apos;t be blocked by nonlegendary creatures this turn. It explores.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/50.png" num="64">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beware the Siren&apos;s Song</name>
+			<text>Each opponent chooses one—
+• Creatures they control attack and/or block this turn if able.
+• Tap each creature they control. 
+Prevent all combat damage that would be dealt to you this turn by attacking creatures.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/51.png" num="3">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Platewyrm Cocoon</name>
+			<text>Changeling
+{T}: Add one mana of any color.
+{4}: This artifact becomes a 4/4 artifact creature until end of turn.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/52.png" num="70">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Artifact — Shapeshifter</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disciple of Orvar</name>
+			<text>Changeling, convoke
+You may have Disciple of Orvar enter as a copy of any creature on the battlefield, except it has changeling.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/53.png" num="6">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orvar, the All Form</name>
+			<text>Changeling
+Whenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that&apos;s a copy of one of those permanents.
+When a spell or ability an opponent controls causes you to discard this card, create a token that&apos;s a copy of target permanent.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/54.png" num="14">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sabdas, Storm Scourge</name>
+			<text>Flying
+Ward {U}{U}{U}
+Nonbasic lands are Islands.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/55.png" num="60">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>1GUUU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/56.png" num="84">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/57.png" num="85">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Desolate Circumstance</name>
+			<text>Creatures can&apos;t attack you unless their controller pays {2} for each creature they control that&apos;s attacking you.
+At the beginning of your end step, Invoke Nagakabouros.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/58.png" num="39">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kharox, Soulshape Vagrant</name>
+			<text>Changeling
+You may have Kharox enter as a copy of a permanent you control, except it&apos;s legendary and snow in addition to its other types and, if it&apos;s a creature, it enters with two additional +1/+1 counters on it and has changeling.</text>
+			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/IKP-files/img/59.png" num="48">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treacherous Waters</name>
+			<text>Search your library for up to X basic land cards, where X is the number of creatures attacking you, put those cards onto the battlefield tapped, then shuffle.
+Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/60.png" num="28">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arixmethes, Slumbering Isle</name>
+			<text>Arixmethes enters tapped with five slumber counters on it.
+As long as Arixmethes has a slumber counter on it, it&apos;s a land.
+Whenever you cast a spell, you may remove a slumber counter from Arixmethes.
+{T}: Add {G}{U}.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/61.png" num="34">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kiora, Sovereign of the Deep</name>
+			<text>Vigilance, ward {3}
+Whenever you cast a sea monster spell from your hand, look at the top X cards of your library, where X is that spell&apos;s mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/62.png" num="50">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kiora, Master of the Depths</name>
+			<text>[+1]: Untap up to one target creature and up to one target land.
+[-2]: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
+[-8]: You get an emblem with &quot;Whenever a creature you control enters, you may have it fight target creature.&quot; Then create three 8/8 blue Octopus creature tokens.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/63.png" num="49">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kiora</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kenessos, Oracle of the Marai</name>
+			<text>If you would scry a number of cards, scry that many cards plus one instead.
+{3}{GU}: Look at the top card of your library. If it&apos;s a sea monster creature card, you may put it onto the battlefield. If you don&apos;t put the card onto the battlefield, you may put it on the bottom of your library.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/64.png" num="10">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kiora, the Crashing Wave</name>
+			<text>[+1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
+[-1]: Draw a card. You may play an additional land this turn.
+[-5]: You get an emblem with &quot;At the beginning of your end step, create a 9/9 blue Kraken creature token.&quot;</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/65.png" num="51">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kiora</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Koma, Cosmos Serpent</name>
+			<text>This spell can&apos;t be countered.
+At the beginning of each upkeep, create a 3/3 blue Serpent creature token named Koma&apos;s Coil.
+Sacrifice another Serpent: Choose one —
+• Tap target permanent. Its activated abilities can&apos;t be activated this turn.
+• Koma, Cosmos Serpent gains indestructible until end of turn.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/66.png" num="52">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3GGUU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monstrosity of the Lake</name>
+			<text>When Monstrosity of the Lake enters, you may pay {5}. If you do, tap all creatures your opponents control, then put a stun counter on each of those creatures.
+Islandcycling {2}</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/67.png" num="12">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Octopus Form</name>
+			<text>Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/68.png" num="13">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quest for Ula&apos;s Temple</name>
+			<text>At the beginning of your upkeep, you may look at the top card of your library. If it&apos;s a creature card, you may reveal it and put a quest counter on this enchantment.
+At the beginning of each end step, if there are three or more quest counters on this enchantment, you may put a sea monster creature card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/69.png" num="15">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scourge of Fleets</name>
+			<text>When Scourge of Fleets enters, return each creature your opponents control with toughness X or less to its owner&apos;s hand, where X is the number of Islands you control.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/70.png" num="16">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serpent of the Pass</name>
+			<text>If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/71.png" num="18">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serpent of Yawning Depths</name>
+			<text>Sea monsters you control can&apos;t be blocked except by sea monsters.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/72.png" num="19">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spawning Kraken</name>
+			<text>Whenever a sea monster you control deals combat damage to a player, create a 9/9 blue Kraken creature token.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/73.png" num="21">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormsurge Kraken</name>
+			<text>Hexproof
+Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/+2 and has &quot;Whenever this creature becomes blocked, you may draw two cards.&quot;</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/74.png" num="22">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trench Behemoth</name>
+			<text>Return a land you control to its owner&apos;s hand: Untap Trench Behemoth. It gains hexproof until end of turn.
+Landfall — Whenever a land you control enters, target creature an opponent controls attacks during its controller&apos;s next combat phase if able.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/75.png" num="24">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aesi, Tyrant of Gyre Strait</name>
+			<text>You may play an additional land on each of your turns.
+Landfall — Whenever a land you control enters, you may draw a card.</text>
+			<set rarity="mythic" picurl="https://MSE Hub Site/sets/IKP-files/img/76.png" num="30">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whelming Wave</name>
+			<text>Return all creatures to their owners&apos; hands except for sea monsters. (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/77.png" num="25">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stalactite Dagger</name>
+			<text>When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling.
+Equipped creature gets +1/+1 and is all creature types.
+Equip {2}</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/78.png" num="71">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tangled Islet</name>
+			<text>Tangled Islet enters tapped.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/79.png" num="81">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rain-Slicked Copse</name>
+			<text>Rain-Slicked Copse enters tapped.
+Cycling {2}</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/80.png" num="75">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sodden Verdure</name>
+			<text>Sodden Verdure enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/81.png" num="80">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rimewood Falls</name>
+			<text>Rimewood Falls enters tapped.</text>
+			<set rarity="common" picurl="https://MSE Hub Site/sets/IKP-files/img/82.png" num="77">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Turbulent Wilderness</name>
+			<text>Turbulent Wilderness enters tapped unless your opponents control eight or more lands.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/83.png" num="82">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blessings of the Marai</name>
+			<text>When this enchantment enters, create X 1/1 colorless Shapeshifter creature tokens with changeling.
+Creature tokens you control have
+&quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/84.png" num="26">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hullbreaker Horror</name>
+			<text>Flash
+This spell can&apos;t be countered.
+Whenever you cast a spell, choose up to one —
+• Return target spell you don&apos;t control to its owner&apos;s hand.
+• Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/85.png" num="9">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hedge Maze</name>
+			<text>Hedge Maze enters tapped.
+When Hedge Maze enters, surveil 1.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/86.png" num="74">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rejuvenating Springs</name>
+			<text>Rejuvenating Springs enters tapped unless you have two or more opponents.
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://MSE Hub Site/sets/IKP-files/img/87.png" num="76">IKP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
