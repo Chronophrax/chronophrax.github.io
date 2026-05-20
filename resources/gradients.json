@@ -1,19 +1,14 @@
 {
 	"gradients":[
 	{
+		"name":"Endless River",
+		"color1":"#185a9d",
+		"color2":"#43cea2"
+	},
+	{
 		"name":"Purple White",
 		"color1":"#ba5370",
 		"color2":"#f4e2d8"
-	},
-	{
-		"name":"Piglet",
-		"color1":"#ee9ca7",
-		"color2":"#ffdde1"
-	},
-	{
-		"name":"Sexy Blue",
-		"color1":"#2193b0",
-		"color2":"#6dd5ed"
 	},
 	{
 		"name":"Roseanna",
@@ -99,11 +94,6 @@
 		"name":"Virgin America",
 		"color1":"#7b4397",
 		"color2":"#dc2430"
-	},
-	{
-		"name":"Endless River",
-		"color1":"#185a9d",
-		"color2":"#43cea2"
 	},
 	{
 		"name":"Bloody Mary",

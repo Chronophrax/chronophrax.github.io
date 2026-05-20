@@ -1,4 +1,96 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Illaoi, Kraken Priestess
+
+The Eye of Nagakabouros
+
+Invoke Nagakabouros
+
+
+VERSION 4 CHANGELOG
+====================
+
+Orvar's Formless Blade added.
+Spawn of Iascylla added.
+The Storm That is Life added.
+Drive Towards Destiny added.
+Bargain With Beasties added.
+Unimaginable Plunder added.
+Pilfered Goods added.
+Settle the Serpent Isles added.
+Kiora, Behemoth Beckoner added.
+
+Stalactite Dagger removed.
+Hullbreaker Horror removed.
+
+Illaoi, Kraken Priestess
+
+The Eye of Nagakabouros
+
+Eccentric Explorer
+
+Recall Those Who Failed
+
+Harsh Lesson
+
+The Leap of Faith
+
+Sunk Cost Teachings
+
+The Test of Spirit
+
+Wrecker's Bay
+rules_text: {T}: Add {G}{G}. Activate only if a sea monster attacked or blocked this turn. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i] => {T}: Add {G}{G}. Activate only if a sea monster attacked or blocked this turn.
+
+Always Recover the Cargo
+
+The Riptide Sermon
+
+Ripper's Bay
+rules_text: {T}: Add {U}{U}. Activate only if a sea monster attacked or blocked this turn. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i] => {T}: Add {U}{U}. Activate only if a sea monster attacked or blocked this turn.
+
+Devourer of the Depths
+rules_text: Defender
+Opponents must attack with at least one nontoken creature each combat if able.
+Whenever Devourer of the Depths blocks a creature, tap it. If you did, exile that creature until this creature leaves the battlefield. => Defender
+Opponents must attack with at least one nontoken creature each combat if able.
+Whenever this creature blocks, tap it. If you did, exile target creature it blocked until this creature leaves the battlefield.
+
+Fear What Hungers
+
+Truth Bearer's Teachings
+
+Buhru Leader
+
+Great Mother's Invocation
+
+Invoke Nagakabouros
+rules_text: ​ => Create a 1/1 green and blue Kraken Tentacle creature token with “This creature gets +1/+1 for each other sea monster you control.” [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i]
+
+Butcher's Bridge
+rules_text: Butcher's Bridge enters tapped, and doesn't untap during your untap step.
+Whenever one or more sea monsters are dealt lethal damage, untap Butcher's Bridge.
+{T}: Add {C}{G}{U}. => Butcher's Bridge enters tapped, and doesn't untap during your untap step.
+The first time each turn one or more sea monsters are dealt lethal damage, untap Butcher's Bridge.
+{T}: Add {C}{G}{U}.
+
+Command Tower
+rules_text: {T}: Add one mana of any color in your commander's color identity. => {T}: Add {G} or {U}.
+
+Beware the Siren's Song
+
+Octopus Form
+
+Serpent of the Pass
+
+Whelming Wave
+rules_text: Return all creatures to their owners' hands except for sea monsters. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i] => Return all creatures to their owner's hands except for sea monsters. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
