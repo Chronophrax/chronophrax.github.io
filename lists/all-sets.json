@@ -4,6 +4,16 @@
             "set_code": "IKP",
             "set_name": "Illaoi, The Kraken Priestess",
             "formats": ""
+        },
+        {
+            "set_code": "LOL",
+            "set_name": "League of Legends Set, Champions",
+            "formats": ""
+        },
+        {
+            "set_code": "VST",
+            "set_name": "League of Legends Set, Neeko Vastaya",
+            "formats": ""
         }
     ]
 }

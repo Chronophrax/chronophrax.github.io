@@ -1,0 +1,1373 @@
+﻿[
+    {
+        "card_name": "Aurora, Witch Between Worlds",
+        "number": 2,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Nami, the Tidecaller",
+        "number": 3,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Caprine, the Flamecaller",
+        "number": 4,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Wukong, the Monkey King",
+        "number": 5,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Gold",
+    {
+        "card_name": "Balam, Wind's Attendant",
+        "number": 45,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Loto, the Abyssal Guard",
+        "number": 21,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Happenstance Meeting",
+        "number": 15,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Nidalee, Jungle's Fury",
+        "number": 28,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Pit Professional",
+        "number": 31,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Rakan, the Charmer",
+        "number": 32,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Rengar, the Pridestalker",
+        "number": 33,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Sett, Terror of the Arena",
+        "number": 35,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Sett, the King of the Pit",
+        "number": 36,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Sett, the Undisputed Boss",
+        "number": 37,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Xayah, the Rebel",
+        "number": 43,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ophelis Gardener",
+        "number": 29,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Hak, Guardian of the Spring",
+        "number": 49,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Dewdrop Harvester",
+        "number": 13,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Master Bingwen, the Sieve",
+        "number": 23,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Lorin, The Woodland Keeper",
+        "number": 55,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Wandering Shepherd",
+        "number": 61,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Elli, the Starry-Eyed Wonder",
+        "number": 48,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Lidari, Keeper of the Stars",
+        "number": 52,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ahri, the Nine-Tailed Fox",
+        "number": 7,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Neeko, Vastayan Shapesplitter",
+        "number": 1,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Neeko, Curious Chameleon",
+        "number": 26,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Deltis, Gentle Rivershaper",
+        "number": 12,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Liu, Greenglade Caretaker",
+        "number": 20,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Mei'iki, Marai Greatmother",
+        "number": 24,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Kamran, Wize Helmsmen",
+        "number": 50,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Daani, Manasoul Student",
+        "number": 10,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Ottrani Dragon Worshiper",
+        "number": 30,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Shisji, The Smokescale Host",
+        "number": 38,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Nidalee, Bestial Huntress",
+        "number": 27,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Vin, Broadback Protector",
+        "number": 41,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Gwail, the Citrus Courier",
+        "number": 14,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Kuulcan, the Whiptail",
+        "number": 18,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Watchful Protectors",
+        "number": 42,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Ting, the Vastayan Disciple",
+        "number": 60,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Heisho, Shell of the World",
+        "number": 16,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Moment of Meditation",
+        "number": 25,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Dreamtree's Dewdrops",
+        "number": 47,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Adnere, the Trusted Advisor",
+        "number": 6,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Ai'la, the Marai Warden",
+        "number": 8,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Himon, Pathless Ancient",
+        "number": 17,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Adnere's Dearest Aviarists",
+        "number": 44,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Blessing of Insight",
+        "number": 46,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Nell, Soaring Cartographer",
+        "number": 56,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Keen, the Smooth Soloist",
+        "number": 51,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Lise, Attentive Accountant",
+        "number": 53,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Loralai, Alluring Mixologist",
+        "number": 54,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Bibi, the Mischievous Marai",
+        "number": 9,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Rumul, Wise Grandfather",
+        "number": 34,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Tama, the Marai Songstress",
+        "number": 40,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Soul of the Mourned",
+        "number": 39,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Serene, Skyline Songstress",
+        "number": 58,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Liminal Guardian",
+        "number": 19,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Mako, Backalley Brawler",
+        "number": 22,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Land",
+    {
+        "card_name": "Vastayan Pathway",
+        "number": 84,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vastayan Pond",
+        "number": 85,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vastayan Ruins",
+        "number": 86,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vastayan Canyon",
+        "number": 82,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vastaya Watchguard",
+        "number": 81,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Vastayan Lodge",
+        "number": 83,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Temple Wayside",
+        "number": 80,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Temple Thoroughfare",
+        "number": 79,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Temple Statuettes",
+        "number": 78,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The God-Willow Seedling",
+        "number": 63,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "The Heart of the Tree",
+        "number": 64,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Omikayalan, The Dreaming Garden",
+        "number": 73,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Hirana Beachcliffs",
+        "number": 65,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Hirana Mangroves",
+        "number": 66,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Kashuri Coast",
+        "number": 67,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Kashuri Mounds",
+        "number": 68,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Kashuri Plateau",
+        "number": 69,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Lhotlan Brightfarm",
+        "number": 70,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Lhotlan Gleamfarm",
+        "number": 71,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Lhotlan Shadefarm",
+        "number": 72,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Placidium Approach",
+        "number": 74,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Placidium Crossing",
+        "number": 75,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Placidium Pinnacle",
+        "number": 76,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Reliquary Tower",
+        "number": 77,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Command Tower",
+        "number": 62,
+        "shape": "normal",
+        "set": "VST",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
