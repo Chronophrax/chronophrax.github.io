@@ -1,4 +1,190 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Tanna, Voice of the Sea added.
+Loa, The Buhru Lookout added.
+Tauulo, Buhru Leader added.
+
+The Voice of the Sea removed.
+Buhru Lookout removed.
+Buhru Leader removed.
+
+Nagakabouros, Resplendent
+
+Eccentric Explorer
+
+Thrash of Nagakabouros
+
+Allure of the Abyss
+
+Recall Those Who Failed
+
+Jaull-fish
+
+Something in the Water
+
+Serpent Isles Navigator
+
+Harsh Lesson
+
+The Leap of Faith
+
+Kraken Tentacle
+
+Iascylla, Matron of Monsters
+
+Abyssal Eye
+
+Sunk Cost Teachings
+
+The Beast From Below
+
+The Test of Spirit
+
+Sink to the Bottom
+
+Inspirited Idol
+
+Vicious Platewyrm
+
+Wrecker's Bay
+
+Shipwreck Hoarder
+
+Parasitic Sharkling
+
+Sefirsa, Scourge of the Deep
+
+Always Recover the Cargo
+
+The Riptide Sermon
+
+Ensnared by Tentacles
+
+The Slaughterdocks
+
+Ripper's Bay
+
+The Vessel
+
+Redwing Hammersnout
+
+Frenzied Feasting
+
+Five-Punch Pablo
+
+Angel, Adamant Brawler
+
+Devourer of the Depths
+
+Fear What Hungers
+
+Truth Bearer's Teachings
+
+Blood in the Water
+
+Leo'lei Tidesoul
+
+Great Mother's Invocation
+
+Butcher's Bridge
+
+Mindshirk Cephalid
+
+Deepwater Scourge
+
+Command Tower
+
+Golden Kraken
+
+Tempestuous Travels
+
+Beware the Siren's Song
+
+Platewyrm Cocoon
+
+Disciple of Orvar
+
+Orvar, the All Form
+
+Sabdas, Storm Scourge
+
+Desolate Circumstance
+
+Kharox, Soulshape Vagrant
+
+Treacherous Waters
+
+Arixmethes, Slumbering Isle
+
+Kiora, Sovereign of the Deep
+
+Kiora, Master of the Depths
+
+Kenessos, Oracle of the Marai
+
+Kiora, the Crashing Wave
+
+Koma, Cosmos Serpent
+
+Monstrosity of the Lake
+
+Octopus Form
+
+Quest for Ula's Temple
+
+Scourge of Fleets
+
+Serpent of the Pass
+
+Serpent of Yawning Depths
+
+Spawning Kraken
+
+Stormsurge Kraken
+
+Trench Behemoth
+
+Aesi, Tyrant of Gyre Strait
+
+Whelming Wave
+
+Orvar's Formless Blade
+
+Tangled Islet
+
+Rain-Slicked Copse
+
+Sodden Verdure
+
+Rimewood Falls
+
+Turbulent Wilderness
+
+Blessings of the Marai
+
+Spawn of Iascylla
+
+Hedge Maze
+
+Rejuvenating Springs
+
+The Storm That is Life
+
+Drive Towards Destiny
+
+Bargain With Beasties
+
+Unimaginable Plunder
+
+Pilfered Goods
+
+Settle the Serpent Isles
+
+Kiora, Behemoth Beckoner
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

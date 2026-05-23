@@ -54,7 +54,7 @@
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Enchantment Creature \u2014 Kraken God",
-            "number": 60,
+            "number": 59,
             "color_identity": "UG",
             "cost": "{8}{G}{U}",
             "rules_text": "Protection from players that haven't attacked this turn.\nAt the end of each player's turn, they sacrifice each creature they control that isn't a sea monster and could've attacked this turn, but didn't.\nIf Nagakabouros would be put into exile or a graveyard from anywhere, put it on the bottom of its owner's library instead, then draw a card.",
@@ -68,14 +68,14 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
             "card_name": "Eccentric Explorer",
             "color": "UG",
             "rarity": "common",
             "type": "Creature \u2014 Octopus Scientist",
-            "number": 45,
+            "number": 43,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Defender\nWhenever another sea monster enters under your control, Eccentric Explorer explores.\nWhenever you explore a Lesson, learn.",
@@ -89,7 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "Thrash of Nagakabouros",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Allure of the Abyss",
@@ -131,14 +131,14 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group Ramp"
         },
         {
             "card_name": "Recall Those Who Failed",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Sorcery \u2014 Lesson",
-            "number": 62,
+            "number": 61,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Reveal the bottom six cards of your library. Put all land cards and/or creature cards revealed this way into your hand. Then exile the rest.",
@@ -152,14 +152,14 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group BottomCard"
         },
         {
             "card_name": "Jaull-fish",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Leviathan Fish",
-            "number": 52,
+            "number": 50,
             "color_identity": "UG",
             "cost": "{1}{G}{U}{U}",
             "rules_text": "Trample\nWhen Jaull-fish is dealt lethal damage, create a number of tapped Treasure tokens equal to its power.",
@@ -173,14 +173,14 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Something in the Water",
             "color": "UG",
             "rarity": "mythic",
             "type": "Kindred Instant \u2014 Leviathan",
-            "number": 68,
+            "number": 67,
             "color_identity": "UG",
             "cost": "{3}{G}{U}{U}",
             "rules_text": "Cast Something in the Water only during the declare attackers step. \nSkip your next declare blockers step.\nFor each creature attacking you, reveal the bottom card of your library, if its a sea monster creature card, put it onto the battlefield blocking it. Otherwise, draw it.",
@@ -194,7 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
             "card_name": "Serpent Isles Navigator",
@@ -215,14 +215,14 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Harsh Lesson",
             "color": "UG",
             "rarity": "rare",
             "type": "Sorcery \u2014 Lesson",
-            "number": 49,
+            "number": 47,
             "color_identity": "UG",
             "cost": "{G}{G}{U}",
             "rules_text": "Target creature you control deals damage equal to its power to target creature you don't control.\nAt the end of each opponent's declare attackers step, if they control a creature that could've attacked and didn't, return this Lesson from your graveyard to your hand.",
@@ -236,14 +236,14 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "The Leap of Faith",
             "color": "UG",
             "rarity": "mythic",
             "type": "Kindred Instant \u2014 Kraken Lesson",
-            "number": 58,
+            "number": 56,
             "color_identity": "UG",
             "cost": "{1}{G}{G}{U}{U}",
             "rules_text": "Invoke Nagakabouros three times.\nSea monsters you control gain trample, haste, and indestructible until end of turn.",
@@ -257,7 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "Kraken Tentacle",
@@ -278,14 +278,14 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Token"
         },
         {
             "card_name": "Iascylla, Matron of Monsters",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Kraken Avatar",
-            "number": 50,
+            "number": 48,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "Cascade\nAt the beginning of your upkeep, if you haven't been dealt combat damage since your last turn, Iascylla gains \u201cSea monster creature spells you cast from your hand have cascade.\u201d until you're dealt combat damage.",
@@ -299,7 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group SeaMonsters"
         },
         {
             "card_name": "Abyssal Eye",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard\n!group Ramp"
         },
         {
             "card_name": "Sunk Cost Teachings",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group BottomCard\n!group SeaMonsters"
         },
         {
             "card_name": "The Beast From Below",
@@ -362,14 +362,14 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard"
         },
         {
             "card_name": "The Test of Spirit",
             "color": "UG",
             "rarity": "mythic",
             "type": "Kindred Sorcery \u2014 Kraken Lesson",
-            "number": 70,
+            "number": 71,
             "color_identity": "UG",
             "cost": "{1}{G}{U}{U}",
             "rules_text": "Each opponent creates The Vessel, a legendary 0/* Spirit creature token with:\n\u2022 The Vessel's toughness is equal to your life total, it can't attack, and it must block if able.\n\u2022 Whenever The Vessel is dealt combat damage, you lose that much life.\n\u2022 Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.",
@@ -383,14 +383,14 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "Sink to the Bottom",
             "color": "UG",
             "rarity": "rare",
             "type": "Kindred Instant \u2014 Serpent",
-            "number": 67,
+            "number": 66,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "As an additional cost to cast this spell, put X cards from your hand on the bottom of your library.\nPut X target attacking creatures on the bottom of their owner's library.",
@@ -404,14 +404,14 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
             "card_name": "Inspirited Idol",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Kraken Spirit",
-            "number": 51,
+            "number": 49,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Defender\nSea monsters you control have ward {1}. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i]",
@@ -425,14 +425,14 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Vicious Platewyrm",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Serpent Shark",
-            "number": 72,
+            "number": 73,
             "color_identity": "UG",
             "cost": "{1}{G}{G}{U}",
             "rules_text": "Vigilance\nWhenever Vicious Platewyrm blocks, it gets +2/+2 and gains trample until the end of your next turn.",
@@ -446,14 +446,14 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
-            "card_name": "The Voice of the Sea",
+            "card_name": "Tanna, Voice of the Sea",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 73,
+            "number": 68,
             "color_identity": "UG",
             "cost": "{G}{G}{U}{U}",
             "rules_text": "The first sea monster spell you cast each turn costs {G}{G}{U}{U} less to cast. This effect reduces only the amount of colored mana you pay.",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Wrecker's Bay",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands\n!group SeaMonsters"
         },
         {
             "card_name": "Shipwreck Hoarder",
@@ -509,14 +509,14 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard\n!group Ramp"
         },
         {
             "card_name": "Parasitic Sharkling",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Shark Serpent",
-            "number": 61,
+            "number": 60,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Flash\nYou can't cast Parasitic Sharkling unless a creature was dealt combat damage this turn.\nYou may cast this card from your graveyard as long as a creature was dealt combat damage this turn.",
@@ -530,14 +530,14 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Sefirsa, Scourge of the Deep",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Dragon Leviathan",
-            "number": 66,
+            "number": 65,
             "color_identity": "UG",
             "cost": "{5}{G}{U}",
             "rules_text": "Flying, trample, islandwalk\nAt the beginning of your upkeep, if you haven't been dealt combat damage since your last turn, Sefirsa gains \u201cYou may look at the bottom card of your library at any time.\u201d and \u201cYou may play lands and cast sea monster spells from the bottom of your library without paying their mana costs.\u201d until you're dealt combat damage.",
@@ -551,7 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
             "card_name": "Always Recover the Cargo",
@@ -572,14 +572,14 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group BottomCard"
         },
         {
             "card_name": "The Riptide Sermon",
             "color": "UG",
             "rarity": "mythic",
             "type": "Kindred Sorcery \u2014 Kraken Lesson",
-            "number": 64,
+            "number": 63,
             "color_identity": "UG",
             "cost": "{X}{1}{G}{U}",
             "rules_text": "Invoke Nagakabouros X times.\nDraw the bottom X cards of your library.",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group BottomCard"
         },
         {
             "card_name": "Ensnared by Tentacles",
@@ -614,7 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "The Slaughterdocks",
@@ -635,7 +635,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard\n!group Lands"
         },
         {
             "card_name": "Ripper's Bay",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands\n!group SeaMonsters"
         },
         {
             "card_name": "The Vessel",
@@ -677,14 +677,14 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Token"
         },
         {
             "card_name": "Redwing Hammersnout",
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Serpent Shark",
-            "number": 63,
+            "number": 62,
             "color_identity": "UG",
             "cost": "{1}{G}{G}{U}",
             "rules_text": "Whenever a sea monster you control attacks, it gains flying and trample until end of turn. [i](Krakens, Leviathans, Octopuses, and Serpents are sea monsters)[/i]",
@@ -698,14 +698,14 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Frenzied Feasting",
             "color": "UG",
             "rarity": "rare",
             "type": "Kindred Enchantment \u2014 Leviathan",
-            "number": 47,
+            "number": 45,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "You must attack and block with at least one creature each combat if able.\nWhenever one or more sea monsters you control deal and/or are dealt combat damage, draw the bottom two cards of your library, then discard a card.",
@@ -719,14 +719,14 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
             "card_name": "Five-Punch Pablo",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Octopus",
-            "number": 46,
+            "number": 44,
             "color_identity": "UG",
             "cost": "{G}{G}{U}",
             "rules_text": "Defender\nPablo can't block alone.\nAt the beginning of your upkeep, if you haven't been dealt combat damage since your last turn, basic lands you control gain \u201c{T}: Add {G}{U}.\u201d until you're dealt combat damage.",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group Ramp"
         },
         {
             "card_name": "Angel, Adamant Brawler",
@@ -761,7 +761,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Devourer of the Depths",
@@ -782,7 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Fear What Hungers",
@@ -803,14 +803,14 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group SeaMonsters"
         },
         {
             "card_name": "Truth Bearer's Teachings",
             "color": "UG",
             "rarity": "rare",
             "type": "Sorcery \u2014 Lesson",
-            "number": 71,
+            "number": 72,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Draw the top or bottom card of your library for each sea monster you control, then Invoke Nagakabouros.\nAt the end of each opponent's declare attackers step, if they control a creature that could've attacked and didn't, return this lesson from your graveyard to your hand.",
@@ -824,14 +824,14 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group BottomCard"
         },
         {
-            "card_name": "Buhru Lookout",
+            "card_name": "Loa, The Buhru Lookout",
             "color": "UG",
-            "rarity": "rare",
-            "type": "Creature \u2014 Human Cleric",
-            "number": 42,
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human Cleric",
+            "number": 57,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Whenever a sea monster you control deals combat damage to a player, choose one\u2014\n\u2022 Draw a card, then put a card from your hand on the bottom of your library.\n\u2022 Invoke Nagakabouros.",
@@ -845,14 +845,14 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group BottomCard"
         },
         {
-            "card_name": "Buhru Leader",
+            "card_name": "Tauulo, Buhru Leader",
             "color": "UG",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Cleric",
-            "number": 41,
+            "type": "Legendary Creature \u2014 Human Cleric",
+            "number": 69,
             "color_identity": "UG",
             "cost": "{1}{G}{G}{U}",
             "rules_text": "Sea monster spells you cast have convoke.\nWhenever you cast Lesson spell, untap each creature you control.",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group SeaMonsters"
         },
         {
             "card_name": "Blood in the Water",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Leo'lei Tidesoul",
@@ -908,14 +908,14 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard"
         },
         {
             "card_name": "Great Mother's Invocation",
             "color": "UG",
             "rarity": "rare",
             "type": "Sorcery \u2014 Lesson",
-            "number": 48,
+            "number": 46,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Invoke Nagakabouros.\nAt the end of each opponent's declare attackers step, if they control a creature that could've attacked and didn't, return this lesson from your graveyard to your hand.",
@@ -929,7 +929,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "Invoke Nagakabouros",
@@ -971,14 +971,14 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands\n!group AttackMatters"
         },
         {
             "card_name": "Mindshirk Cephalid",
             "color": "UG",
             "rarity": "mythic",
             "type": "Creature \u2014 Octopus Rogue",
-            "number": 59,
+            "number": 58,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Flash\nMindshirk Cephalid can't attack or block.\nWhen Mindshirk Cephalid enters, gain control of target attacking creature for for as long as this creature remains on the battlefield.",
@@ -992,14 +992,14 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Deepwater Scourge",
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Octopus Spirit",
-            "number": 43,
+            "number": 41,
             "color_identity": "UG",
             "cost": "{G}{U}{U}{U}",
             "rules_text": "Defender, reach\nYou may look at the bottom card of your library at any time.\n{GU}, Exile the bottom card of your library: Deepwater Scourge can block an additional creature this turn. Activate no more than seven times each turn",
@@ -1013,7 +1013,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard"
         },
         {
             "card_name": "Command Tower",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Golden Kraken",
@@ -1055,14 +1055,14 @@
             "alias": "Commander's Sphere",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Ramp"
         },
         {
             "card_name": "Tempestuous Travels",
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 69,
+            "number": 70,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever a creature with flying attacks, it loses flying until end of turn.\nWhenever you attack, target attacking creature can't be blocked by nonlegendary creatures this turn. It explores.",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Beware the Siren's Song",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group AttackMatters"
         },
         {
             "card_name": "Platewyrm Cocoon",
@@ -1118,7 +1118,7 @@
             "alias": "Firdoch Core",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Disciple of Orvar",
@@ -1139,7 +1139,7 @@
             "alias": "Omni-Changeling",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Orvar, the All Form",
@@ -1160,14 +1160,14 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Sabdas, Storm Scourge",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Dragon Leviathan",
-            "number": 65,
+            "number": 64,
             "color_identity": "UG",
             "cost": "{1}{G}{U}{U}{U}",
             "rules_text": "Flying\nWard {U}{U}{U}\nNonbasic lands are Islands.",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Island",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Forest",
@@ -1223,14 +1223,14 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Desolate Circumstance",
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 44,
+            "number": 42,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.\nAt the beginning of your end step, Invoke Nagakabouros.",
@@ -1244,14 +1244,14 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Kharox, Soulshape Vagrant",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Snow Creature \u2014 Shapeshifter",
-            "number": 53,
+            "number": 51,
             "color_identity": "UG",
             "cost": "{2}{G}{U}{U}",
             "rules_text": "Changeling\nYou may have Kharox enter as a copy of a permanent you control, except it's legendary and snow in addition to its other types and, if it's a creature, it enters with two additional +1/+1 counters on it and has changeling.",
@@ -1265,7 +1265,7 @@
             "alias": "Moritte of the Frost",
             "position": "59",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Treacherous Waters",
@@ -1286,7 +1286,7 @@
             "alias": "Jaheira's Respite",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group Ramp"
         },
         {
             "card_name": "Arixmethes, Slumbering Isle",
@@ -1307,14 +1307,14 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Kiora, Sovereign of the Deep",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Merfolk Noble",
-            "number": 55,
+            "number": 53,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Vigilance, ward {3}\nWhenever you cast a sea monster spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
@@ -1328,14 +1328,14 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard"
         },
         {
             "card_name": "Kiora, Master of the Depths",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Kiora",
-            "number": 54,
+            "number": 52,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "[+1]: Untap up to one target creature and up to one target land.\n[-2]: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.\n[-8]: You get an emblem with \u201cWhenever a creature you control enters, you may have it fight target creature.\u201d Then create three 8/8 blue Octopus creature tokens.",
@@ -1349,7 +1349,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Kenessos, Oracle of the Marai",
@@ -1370,14 +1370,14 @@
             "alias": "Kenessos, Priest of Thassa",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group BottomCard"
         },
         {
             "card_name": "Kiora, the Crashing Wave",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Kiora",
-            "number": 56,
+            "number": 54,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "[+1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.\n[-1]: Draw a card. You may play an additional land this turn.\n[-5]: You get an emblem with \u201cAt the beginning of your end step, create a 9/9 blue Kraken creature token.\u201d",
@@ -1391,14 +1391,14 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Koma, Cosmos Serpent",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Serpent",
-            "number": 57,
+            "number": 55,
             "color_identity": "UG",
             "cost": "{3}{G}{G}{U}{U}",
             "rules_text": "This spell can't be countered.\nAt the beginning of each upkeep, create a 3/3 blue Serpent creature token named Koma's Coil.\nSacrifice another Serpent: Choose one \u2014\n\u2022 Tap target permanent. Its activated abilities can't be activated this turn.\n\u2022 Koma, Cosmos Serpent gains indestructible until end of turn.",
@@ -1412,7 +1412,7 @@
             "alias": "Koma, Cosmos Serpent",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Monstrosity of the Lake",
@@ -1433,7 +1433,7 @@
             "alias": "Koma, Cosmos Serpent",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Octopus Form",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons"
         },
         {
             "card_name": "Quest for Ula's Temple",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Scourge of Fleets",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Serpent of the Pass",
@@ -1517,7 +1517,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "!tag Lesson"
+            "notes": "!group Lessons\n!group SeaMonsters"
         },
         {
             "card_name": "Serpent of Yawning Depths",
@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Spawning Kraken",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Stormsurge Kraken",
@@ -1580,7 +1580,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Trench Behemoth",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters"
         },
         {
             "card_name": "Aesi, Tyrant of Gyre Strait",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Whelming Wave",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Orvar's Formless Blade",
@@ -1664,7 +1664,7 @@
             "alias": "Stalactite Dagger",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Tangled Islet",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Rain-Slicked Copse",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Sodden Verdure",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Rimewood Falls",
@@ -1748,7 +1748,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Turbulent Wilderness",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Blessings of the Marai",
@@ -1790,7 +1790,7 @@
             "alias": "Springleaf Parade",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters\n!group Ramp"
         },
         {
             "card_name": "Spawn of Iascylla",
@@ -1811,7 +1811,7 @@
             "alias": "Hullbreaker Horror",
             "position": "85",
             "rotated": false,
-            "notes": ""
+            "notes": "!group SeaMonsters"
         },
         {
             "card_name": "Hedge Maze",
@@ -1832,7 +1832,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "Rejuvenating Springs",
@@ -1853,7 +1853,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Lands"
         },
         {
             "card_name": "The Storm That is Life",
@@ -1874,7 +1874,7 @@
             "alias": "Overwhelming Stampede",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "!group HighPower"
         },
         {
             "card_name": "Drive Towards Destiny",
@@ -1895,7 +1895,7 @@
             "alias": "Rishkar's Expertise",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!group HighPower"
         },
         {
             "card_name": "Bargain With Beasties",
@@ -1916,7 +1916,7 @@
             "alias": "Season of Gathering",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "!group HighPower"
         },
         {
             "card_name": "Unimaginable Plunder",
@@ -1937,7 +1937,7 @@
             "alias": "The Great Henge",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Ramp"
         },
         {
             "card_name": "Pilfered Goods",
@@ -1958,7 +1958,7 @@
             "alias": "Coveted Jewel",
             "position": "92",
             "rotated": false,
-            "notes": ""
+            "notes": "!group AttackMatters\n!group Ramp"
         },
         {
             "card_name": "Settle the Serpent Isles",
@@ -1979,7 +1979,7 @@
             "alias": "Traverse the Outlands",
             "position": "93",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Ramp"
         },
         {
             "card_name": "Kiora, Behemoth Beckoner",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Ramp"
         }
     ]
 }

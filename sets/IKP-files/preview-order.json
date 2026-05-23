@@ -1,13 +1,10 @@
 ﻿[
 	{ "title": "Commander", "cards":  [ "!group Commander" ] },
-	{ "cards":  [ "GU" ] },
-	{ "cards":  [ "G"] },
-	{ "cards":  [ "U" ] },
-	{ "cards":  [ "C" ] },
-	{ "cards":  [ "GUL" ] },
-	{ "cards":  [ "UL"  ] },
-	{ "cards":  [ "GL"  ] },
-	{ "cards":  [ "L" ] },
-	{ "cards":  [ "basic" ] },
-	{ "title": "Tokens", "cards":  [ "token" ] }
+	{ "title": "Lessons", "cards":  [ "!group Lessons" ] },
+	{ "title": "AttackMatters", "cards":  [ "!group AttackMatters" ] },
+	{ "title": "Sea Monsters", "cards":  [ "!group SeaMonsters" ] },
+	{ "title": "Bottom Card", "cards":  ["!group BottomCard"] },
+	{ "title": "High Power", "cards":  [ "!group HighPower" ] },
+	{ "title": "Ramp", "cards":  [ "!group Ramp" ] },
+	{ "title": "Lands", "cards":  [ "!group Lands" ] }
 ]

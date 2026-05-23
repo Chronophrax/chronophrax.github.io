@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>VST</name>
-			<longname>League of Legends Set, Neeko Vastaya</longname>
+			<longname>Neeko, Vastayan Shapesplitter</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-20</releasedate>
+			<releasedate>2026-05-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Neeko, Vastayan Shapesplitter</name>
 			<text>Whenever another nontoken Vastaya creature enters under your control, create a token that&apos;s a copy of that creature except it isn&apos;t legendary. It gains haste and echo.
 As long as you control a Vastaya with {W} in its mana cost, Vastaya spells you cast cost {W} less to cast. The same is true for {U}, {B}, {R}, and {G}. This effect reduces only the amount of colored mana you pay.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/0.png" num="1">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/0.png" num="1">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ As long as you control a Vastaya with {W} in its mana cost, Vastaya spells you c
 			<name>Aurora, Witch Between Worlds</name>
 			<text>When Aurora phases in or out, exile another target nontoken permanent until end of turn.
 {W}{W}{W}: Aurora phases out. Create a white 1/1 Rabbit Spirit enchantment creature token with &quot;The first white noncreature spell you cast during each of your turns costs {1} less to cast.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/1.png" num="2">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/1.png" num="2">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -51,7 +51,7 @@ As long as you control a Vastaya with {W} in its mana cost, Vastaya spells you c
 Trample, haste, myriad
 Wukong isn&apos;t legendary during your turn if he&apos;s a token.
 When Wukong dies, you may sacrifice a token with the same name. If you did, return Wukong to the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/2.png" num="5">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/2.png" num="5">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -69,7 +69,7 @@ When Wukong dies, you may sacrifice a token with the same name. If you did, retu
 			<name>Ahri, the Nine-Tailed Fox</name>
 			<text>Creatures you control but don&apos;t own have haste and prowess.
 {1}{UR}, {T}: Ahri deals up to 2 damage to target creature an opponent controls. Gain control of it until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/3.png" num="7">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/3.png" num="7">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ When Wukong dies, you may sacrifice a token with the same name. If you did, retu
 		<card>
 			<name>Neeko, Curious Chameleon</name>
 			<text>When Neeko enters and at the beginning of your upkeep, she becomes a copy of another target creature you control until she deals or is dealt damage, except her name is &quot;Neeko, Curious Chameleon&quot; and she has this ability.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/4.png" num="26">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/4.png" num="26">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -105,7 +105,7 @@ When Wukong dies, you may sacrifice a token with the same name. If you did, retu
 			<text>Trample
 Rengar can&apos;t be blocked by creatures with less power. 
 {R}{G}, {T}: Rengar deals 3 damage to target creature. When it dies this turn, put a +1/+1 counter on him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/5.png" num="33">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/5.png" num="33">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -124,7 +124,7 @@ Rengar can&apos;t be blocked by creatures with less power.
 			<text>Trample, haste
 Whenever Sett is dealt damage, he gets +2/+2 until end of turn.
 {1}{R}{G}: Sett fights target creature you don&apos;t control. Create a treasure token.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/6.png" num="36">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/6.png" num="36">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -143,7 +143,7 @@ Whenever Sett is dealt damage, he gets +2/+2 until end of turn.
 			<text>Showtime — Whenever one or more creatures you control deals damage to other creatures, create a Treasure token.
 Sacrifice a Treasure: Target creature can&apos;t be dealt noncombat damage by creatures this turn.
 Sacrifice 3 Treasures: Target creature fights another target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/7.png" num="37">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/7.png" num="37">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -162,7 +162,7 @@ Sacrifice 3 Treasures: Target creature fights another target creature.</text>
 			<text>Partner with Xayah, The Rebel
 When Rakan enters, put a shield counter on target creature with &quot;Xayah&quot; in its name.
 All creatures able to block Rakan do so. Prevent all damage dealt to him by those creatures.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/8.png" num="32">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/8.png" num="32">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -181,7 +181,7 @@ All creatures able to block Rakan do so. Prevent all damage dealt to him by thos
 			<text>Partner with Rakan, The Charmer
 When Xayah enters, put a double strike counter on target creature with &quot;Rakan&quot; in its name.
 When Xayah deals combat damage to a player, she deals up to that much divided among permanents that player controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/9.png" num="43">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/9.png" num="43">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -199,7 +199,7 @@ When Xayah deals combat damage to a player, she deals up to that much divided am
 			<name>Nami, the Tidecaller</name>
 			<text>When Nami enters, tap each creature you don&apos;t control.
 When Nami blocks, tap up to one target creature shes blocking and remove it from combat.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/10.png" num="3">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/10.png" num="3">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -217,7 +217,7 @@ When Nami blocks, tap up to one target creature shes blocking and remove it from
 			<name>Nidalee, Bestial Huntress</name>
 			<text>First strike, haste, skulk
 When Nidalee deals combat damage to a player, you may have her deal damage equal to her power to up to one target creature they control. If you do, return her to your hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/11.png" num="27">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/11.png" num="27">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -236,7 +236,7 @@ When Nidalee deals combat damage to a player, you may have her deal damage equal
 			<text>Flash, prowl {R}{G}
 When Nidalee enters, destroy target creature that was dealt damage this turn, then she fights up to one other target creature.
 {G}{W}: Transform Nidalee.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/12.png" num="28">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/12.png" num="28">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -254,7 +254,7 @@ When Nidalee enters, destroy target creature that was dealt damage this turn, th
 			<name>Lorin, The Woodland Keeper</name>
 			<text>Other creatures you control have lifelink.
 At the beginning of each end step, if you gained 4 or more life this turn, you may search your library for a forest card, reveal it and put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/13.png" num="55">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/13.png" num="55">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -272,7 +272,7 @@ At the beginning of each end step, if you gained 4 or more life this turn, you m
 			<name>Kamran, Wize Helmsmen</name>
 			<text>Inspired — Whenever Kamran becomes untapped, scry 2 then you may draw a card.
 {T}: Exile another target creature you control and put two time counters on it. If it doesn&apos;t have suspend, it gains suspend.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/14.png" num="50">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/14.png" num="50">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -293,7 +293,7 @@ Scry 1, draw a card, then choose one—
 • Prevent all combat damage that would be dealt to you this turn.
 • Vastaya you control gain hexproof until end of turn.
 • Vastaya you control gain indestructible until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/15.png" num="25">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/15.png" num="25">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -310,7 +310,7 @@ Scry 1, draw a card, then choose one—
 			<name>Balam, Wind&apos;s Attendant</name>
 			<text>Flying
 Whenever another creature you control enters, draw a card if it has flying. Otherwise, put a flying counter on it.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/16.png" num="45">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/16.png" num="45">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -328,7 +328,7 @@ Whenever another creature you control enters, draw a card if it has flying. Othe
 			<name>Wandering Shepherd</name>
 			<text>Vigilance
 {G}{W}, {T}: Another target creature token you control gains hexproof or indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/17.png" num="61">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/17.png" num="61">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -346,7 +346,7 @@ Whenever another creature you control enters, draw a card if it has flying. Othe
 			<name>Ting, the Vastayan Disciple</name>
 			<text>First strike
 Other creatures you control with first strike have double strike.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/18.png" num="60">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/18.png" num="60">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -363,7 +363,7 @@ Other creatures you control with first strike have double strike.</text>
 		<card>
 			<name>Adnere, the Trusted Advisor</name>
 			<text>At the beginning of your first main phase, each opponent may learn. For each opponent who did, draw a card.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/19.png" num="6">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/19.png" num="6">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,7 +381,7 @@ Other creatures you control with first strike have double strike.</text>
 			<name>Shisji, The Smokescale Host</name>
 			<text>When Shisji enters, choose combat or noncombat. Prevent all damage of the chosen type dealt to them.
 {T}, Discard a creature card: For each colored mana symbol in it&apos;s cost, add one mana of that color and lose 1 life.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/20.png" num="38">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/20.png" num="38">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -399,7 +399,7 @@ Other creatures you control with first strike have double strike.</text>
 			<name>The Soul of the Mourned</name>
 			<text>Defender, lifelink
 While an opponent is choosing targets, they must choose this creature if able.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/21.png" num="39">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/21.png" num="39">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +419,7 @@ While an opponent is choosing targets, they must choose this creature if able.</
 {T}: Add {G}.
 As long as you control six or more lands, lands you control are every basic land type in addition to their other types.
 {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Search your library for any number of Vastaya creature cards, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/22.png" num="64">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/22.png" num="64">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -436,7 +436,7 @@ As long as you control six or more lands, lands you control are every basic land
 			<text>Ward {1}
 Lands you control are every basic land type in addition to their other types.
 {T}: Add {G}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/23.png" num="13">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/23.png" num="13">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -454,7 +454,7 @@ Lands you control are every basic land type in addition to their other types.
 			<name>Rin, Tail-Cloak Matriarch</name>
 			<text>Vastaya you control with counters on them have mentor. 
 If a creature source you control would put counters on another creature, put three of those counters on it instead. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/24.png" num="57">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/24.png" num="57">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -472,7 +472,7 @@ If a creature source you control would put counters on another creature, put thr
 			<name>Lidari, Keeper of the Stars</name>
 			<text>{X}, {T}: Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.
 {X}, {T}: You gain X life.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/25.png" num="52">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/25.png" num="52">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -491,7 +491,7 @@ If a creature source you control would put counters on another creature, put thr
 			<text>Elli doesn&apos;t untap unless you control a creature token with base power or toughness 1 or less.
 {T}: Draw a card and lose 1 life.
 {T}: Surveil 1 and gain 1 life.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/26.png" num="48">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/26.png" num="48">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -509,7 +509,7 @@ If a creature source you control would put counters on another creature, put thr
 			<name>Shori, The Sprite Mother</name>
 			<text>Shori enters with your choice of a flying, haste, or vigilance counter on her.
 Whenever a token creature you control enters, if Shori has counters her, put the same number of each kind of counter on that creature.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/27.png" num="59">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/27.png" num="59">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -528,7 +528,7 @@ Whenever a token creature you control enters, if Shori has counters her, put the
 			<text>Vigilance, lifelink
 Whenever one or more lands you control untap, gain that much life. 
 Whenever Hak blocks, he gets +0/+X until end of turn, where X is the number of untapped lands you control, and you may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/28.png" num="49">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/28.png" num="49">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -546,7 +546,7 @@ Whenever Hak blocks, he gets +0/+X until end of turn, where X is the number of u
 			<name>Nell, Soaring Cartographer</name>
 			<text>Flying
 Whenever another creature you control enters, it explores if it has flying. Otherwise, put a flying counter on it.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/29.png" num="56">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/29.png" num="56">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,7 +565,7 @@ Whenever another creature you control enters, it explores if it has flying. Othe
 			<text>Skulk, haste
 Whenever Keen deals combat damage to a creature, create two tapped treasure tokens.
 Whenever Keen deals combat damage to a player, draw two cards then discard two cards.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/30.png" num="51">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/30.png" num="51">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -583,7 +583,7 @@ Whenever Keen deals combat damage to a player, draw two cards then discard two c
 			<name>Loralai, Alluring Mixologist</name>
 			<text>At the beginning of each other player&apos;s upkeep, they create a Food token and you create a tapped Treasure token. 
 Whenever you attack a player, choose up to X creatures attacking that player, where X is the number of Food tokens they control. They can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/31.png" num="54">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/31.png" num="54">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -601,7 +601,7 @@ Whenever you attack a player, choose up to X creatures attacking that player, wh
 			<name>Sett, Terror of the Arena</name>
 			<text>Trample
 Whenever a creature you don&apos;t control enters, its controller chooses bribe or battle. If they choose bribe, you create a treasure token. Otherwise, Sett fights that creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/32.png" num="35">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/32.png" num="35">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -619,7 +619,7 @@ Whenever a creature you don&apos;t control enters, its controller chooses bribe 
 			<name>Serene, Skyline Songstress</name>
 			<text>Whenever another creature you control enters, it gains haste and first strike until end of turn if it has flying. Otherwise, put a flying counter on it.
 {3}, {T}: Create a 2/2 blue Bird creature token with flying.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/33.png" num="58">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/33.png" num="58">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -637,7 +637,7 @@ Whenever a creature you don&apos;t control enters, its controller chooses bribe 
 			<name>Deltis, Gentle Rivershaper</name>
 			<text>Islandwalk
 Nonbasic lands are Islands in addition to their other types.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/34.png" num="12">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/34.png" num="12">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -655,7 +655,7 @@ Nonbasic lands are Islands in addition to their other types.</text>
 			<name>Pit Professional</name>
 			<text>Trample
 Boast — {3}: Pit Professional fights another target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/35.png" num="31">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/35.png" num="31">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -673,7 +673,7 @@ Boast — {3}: Pit Professional fights another target creature.</text>
 			<name>Himon, Pathless Ancient</name>
 			<text>Trample, vigilance
 If you would draw a card, you may instead choose creature or noncreature and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand then shuffle.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/36.png" num="17">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/36.png" num="17">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -691,7 +691,7 @@ If you would draw a card, you may instead choose creature or noncreature and rev
 			<name>Ottrani Dragon Worshiper</name>
 			<text>Haste
 Whenever Ottrani Dragon Worshiper attacks, you lose 2 life, then surveil 1 and draw a card.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/37.png" num="30">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/37.png" num="30">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -709,7 +709,7 @@ Whenever Ottrani Dragon Worshiper attacks, you lose 2 life, then surveil 1 and d
 			<name>Ophelis Gardener</name>
 			<text>Ward {1}
 Whenever you play a land, you may search your library for another land card, reveal it and put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/38.png" num="29">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/38.png" num="29">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Whenever you play a land, you may search your library for another land card, rev
 			<name>Master Bingwen, the Sieve</name>
 			<text>Vigilance, mentor
 If you would put one or more +1/+1 counters on another creature you control, you may instead put your choice of a trample, hexproof, vigilance, lifelink, or haste counter on it.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/39.png" num="23">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/39.png" num="23">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -745,7 +745,7 @@ If you would put one or more +1/+1 counters on another creature you control, you
 			<name>Ai&apos;la, the Marai Warden</name>
 			<text>Whenever a creature you control attacks, it explores.
 Whenever you explore a creature with mana value 3 or less, put it into your hand.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/40.png" num="8">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/40.png" num="8">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -763,7 +763,7 @@ Whenever you explore a creature with mana value 3 or less, put it into your hand
 			<name>Bibi, the Mischievous Marai</name>
 			<text>Whenever a player casts a spell, each player draws a card.
 Opponents have a maximum hand size equal to the number of cards in your hand.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/41.png" num="9">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/41.png" num="9">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -781,7 +781,7 @@ Opponents have a maximum hand size equal to the number of cards in your hand.</t
 			<name>Daani, Manasoul Student</name>
 			<text>Prowess
 Whenever you cast a creature or noncreature spell from your hand, you may cast up to one target card of the other type from your graveyard this turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/42.png" num="10">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/42.png" num="10">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,7 +801,7 @@ Whenever you cast a creature or noncreature spell from your hand, you may cast u
 When Mako attacks, choose one —
 • Attacking creatures you control can&apos;t be blocked by more than one creature this turn.
 • Attacking creatures you control gain deathtouch until end of turn</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/43.png" num="22">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/43.png" num="22">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -819,7 +819,7 @@ When Mako attacks, choose one —
 			<name>The Liminal Guardian</name>
 			<text>As long as there are more creatures attacking you than you control, you may cast The Liminal Guardian from your graveyard as though he had flash.
 Cycling {2}</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/44.png" num="19">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/44.png" num="19">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -837,7 +837,7 @@ Cycling {2}</text>
 			<name>Heisho, Shell of the World</name>
 			<text>Vigilance, trample, reach
 Tap an untapped Vastayan you control: The tapped creature gains hexproof and Heisho gets +X/+0 where X is that creature&apos;s power until it untaps.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/45.png" num="16">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/45.png" num="16">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -855,7 +855,7 @@ Tap an untapped Vastayan you control: The tapped creature gains hexproof and Hei
 			<name>Liu, Greenglade Caretaker</name>
 			<text>Trample, forestwalk
 Nonbasic lands are Forests in addition to their other types.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/46.png" num="20">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/46.png" num="20">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -873,7 +873,7 @@ Nonbasic lands are Forests in addition to their other types.</text>
 			<name>Rumul, Wise Grandfather</name>
 			<text>Vigilance, mountainwalk
 Nonbasic lands are Mountains in addition to their other types.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/47.png" num="34">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/47.png" num="34">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -891,7 +891,7 @@ Nonbasic lands are Mountains in addition to their other types.</text>
 			<name>The God-Willow Seedling</name>
 			<text>{T}: Add {C}.
 {2}, {T}: Choose a color. Add an amount of mana of that color equal to the number Vastaya you control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/48.png" num="63">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/48.png" num="63">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -905,7 +905,7 @@ Nonbasic lands are Mountains in addition to their other types.</text>
 		<card>
 			<name>Happenstance Meeting</name>
 			<text>Exile cards from the top your library until you exile a creature card. Each opponent may do the same. For each opponent who did, do the same. Then each player may put a creature card they exiled onto the battlefield tapped, then puts the rest on the bottom of their library in a random order.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/49.png" num="15">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/49.png" num="15">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -922,7 +922,7 @@ Nonbasic lands are Mountains in addition to their other types.</text>
 			<name>Caprine, the Flamecaller</name>
 			<text>When Caprine enters, she deals 4 damage to any target.
 At the beginning of your first main phase, each Mountain you control deals 1 damage to you. Add {R} for each damage dealt this way.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/50.png" num="4">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/50.png" num="4">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -939,7 +939,7 @@ At the beginning of your first main phase, each Mountain you control deals 1 dam
 		<card>
 			<name>Dreamtree&apos;s Dewdrops</name>
 			<text>Landfall — Whenever a land you control enters, you may shuffle any number of cards from your hand into your library. When you do, draw that many cards.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/51.png" num="47">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/51.png" num="47">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +956,7 @@ At the beginning of your first main phase, each Mountain you control deals 1 dam
 			<name>Dedicant of the Challange</name>
 			<text>Flying, vigilance, trample, haste
 Whenever another creature you control enters, put your choice of a haste, trample, or vigilance counter on it if it has flying. Otherwise, put a flying counter on it.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/52.png" num="11">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/52.png" num="11">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -974,7 +974,7 @@ Whenever another creature you control enters, put your choice of a haste, trampl
 			<name>Gwail, the Citrus Courier</name>
 			<text>Gwail enters with a +1/+1 counter for each other Vastaya you control.
 {T}, Remove a counter from Gwail: Put a +1/+1 counter on another target creature. It gains hexproof and haste until end of turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/53.png" num="14">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/53.png" num="14">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -992,7 +992,7 @@ Whenever another creature you control enters, put your choice of a haste, trampl
 			<name>Vin, Broadback Protector</name>
 			<text>Trample, enlist
 As long as Vin is tapped, untapped creature tokens you control have indestructible.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/54.png" num="41">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/54.png" num="41">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1010,7 +1010,7 @@ As long as Vin is tapped, untapped creature tokens you control have indestructib
 			<name>Kuulcan, the Whiptail</name>
 			<text>Flash
 When Kuulcan enters, any number of target creature tokens you control gain hexproof and indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/55.png" num="18">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/55.png" num="18">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +1028,7 @@ When Kuulcan enters, any number of target creature tokens you control gain hexpr
 			<name>Lise, Attentive Accountant</name>
 			<text>Vigilance
 Whenever one or more creatures you control deal combat damage to a player, for each color among them, create a treasure token.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/56.png" num="53">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/56.png" num="53">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1045,7 +1045,7 @@ Whenever one or more creatures you control deal combat damage to a player, for e
 		<card>
 			<name>Blessing of Insight</name>
 			<text>Whenever a legendary Vastaya enters under your control, scry X, where X is the number of other legendary Vastaya you control.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/57.png" num="46">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/57.png" num="46">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1062,7 +1062,7 @@ Whenever one or more creatures you control deal combat damage to a player, for e
 			<name>Watchful Protectors</name>
 			<text>You may play an additional land on each of your turns.
 When a land you control enters, choose a color of mana it could produce. Creatures you control get hexproof from that color until the start of your next turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/58.png" num="42">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/58.png" num="42">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1079,7 +1079,7 @@ When a land you control enters, choose a color of mana it could produce. Creatur
 			<name>Loto, the Abyssal Guard</name>
 			<text>Deathtouch, islandwalk
 Whenever one or more creatures attack you, draw a card and reveal it. Prevent all combat damage that would be dealt to you by creatures with the revealed card&apos;s mana value this turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/59.png" num="21">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/59.png" num="21">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,7 +1096,7 @@ Whenever one or more creatures attack you, draw a card and reveal it. Prevent al
 		<card>
 			<name>Tama, the Marai Songstress</name>
 			<text>Whenever another legendary creature you control enters, you may discover X, where X is the number of colors that creature is. Do this only once each turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/60.png" num="40">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/60.png" num="40">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1113,7 +1113,7 @@ Whenever one or more creatures attack you, draw a card and reveal it. Prevent al
 		<card>
 			<name>Adnere&apos;s Dearest Aviarists</name>
 			<text>Whenever another creature you control enters, learn if it has flying. Otherwise, put a flying counter on it.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/61.png" num="44">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/61.png" num="44">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1132,7 +1132,7 @@ Whenever one or more creatures attack you, draw a card and reveal it. Prevent al
 			<text>Elders you control have hexproof.
 Vastaya you control have ward {1}.
 {T}: Scry 1, then draw a card.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/62.png" num="24">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/62.png" num="24">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1149,7 +1149,7 @@ Vastaya you control have ward {1}.
 		<card>
 			<name>Command Tower</name>
 			<text>{T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/VST-files/img/63.png" num="62">VST</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/VST-files/img/63.png" num="62">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1165,7 +1165,7 @@ Vastaya you control have ward {1}.
 			<text>Lhotlan Brightfarm enters tapped.
 {T}: Add {G}.
 {1}, {T}: Add {W} or {R}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/64.png" num="70">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/64.png" num="70">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1182,7 +1182,7 @@ Vastaya you control have ward {1}.
 			<text>Lhotlan Shadefarm enters tapped.
 {T}: Add {G}.
 {1}, {T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/65.png" num="72">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/65.png" num="72">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1199,7 +1199,7 @@ Vastaya you control have ward {1}.
 			<text>Lhotlan Gleamfarm enters tapped.
 {T}: Add {G}.
 {1}, {T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/66.png" num="71">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/66.png" num="71">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1215,7 @@ Vastaya you control have ward {1}.
 			<name>Vastayan Pond</name>
 			<text>{3}, {T}: Add one mana of any color. Target Vastaya you control explores.
 {T}: Add {U}. Activate only if you control a blue Vastaya.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/67.png" num="85">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/67.png" num="85">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1232,7 @@ Vastaya you control have ward {1}.
 			<text>Hirana Mangroves enters tapped.
 {T}: Add {U}.
 {1}, {T}: Add {W} or {G}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/68.png" num="66">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/68.png" num="66">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1249,7 +1249,7 @@ Vastaya you control have ward {1}.
 			<text>Hirana Beachcliffs enters tapped.
 {T}: Add {U}.
 {1}, {T}: Add {W} or {R}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/69.png" num="65">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/69.png" num="65">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1265,7 +1265,7 @@ Vastaya you control have ward {1}.
 			<name>Vastayan Lodge</name>
 			<text>{3}, {T}: Add one mana of any color. Target Vastaya you control explores.
 {T}: Add {G}. Activate only if you control a green Vastaya.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/70.png" num="83">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/70.png" num="83">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1281,7 +1281,7 @@ Vastaya you control have ward {1}.
 			<name>Reliquary Tower</name>
 			<text>You have no maximum hand size.
 {T}: Add {C}.</text>
-			<set rarity="uncommon" picurl="https://MSE Hub Site/sets/VST-files/img/71.png" num="77">VST</set>
+			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/VST-files/img/71.png" num="77">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1296,7 +1296,7 @@ Vastaya you control have ward {1}.
 			<name>Vastayan Ruins</name>
 			<text>{3}, {T}: Add one mana of any color. Target Vastaya you control explores.
 {T}: Add {B}. Activate only if you control a black Vastaya.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/72.png" num="86">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/72.png" num="86">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1312,7 +1312,7 @@ Vastaya you control have ward {1}.
 			<name>Vastayan Pathway</name>
 			<text>{3}, {T}: Add one mana of any color. Target Vastaya you control explores.
 {T}: Add {W}. Activate only if you control a white Vastaya.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/73.png" num="84">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/73.png" num="84">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1329,7 +1329,7 @@ Vastaya you control have ward {1}.
 			<text>Placidium Approach enters tapped.
 {T}: Add {R}.
 {1}, {T}: Add {B} or {G}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/74.png" num="74">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/74.png" num="74">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1346,7 +1346,7 @@ Vastaya you control have ward {1}.
 			<text>Placidium Crossing enters tapped.
 {T}: Add {R}.
 {1}, {T}: Add {W} or {G}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/75.png" num="75">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/75.png" num="75">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1363,7 +1363,7 @@ Vastaya you control have ward {1}.
 			<text>Placidium Pinnacle enters tapped.
 {T}: Add {R}.
 {1}, {T}: Add {U} or {G}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/76.png" num="76">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/76.png" num="76">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1380,7 +1380,7 @@ Vastaya you control have ward {1}.
 			<text>Kashuri Coast enters tapped.
 {T}: Add {W}.
 {1}, {T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/77.png" num="67">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/77.png" num="67">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1397,7 @@ Vastaya you control have ward {1}.
 			<text>Kashuri Mounds enters tapped.
 {T}: Add {W}.
 {1}, {T}: Add {R} or {B}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/78.png" num="68">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/78.png" num="68">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1414,7 +1414,7 @@ Vastaya you control have ward {1}.
 			<text>Kashuri Plateau enters tapped.
 {T}: Add {W}.
 {1}, {T}: Add {G} or {B}.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/79.png" num="69">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/79.png" num="69">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1431,7 +1431,7 @@ Vastaya you control have ward {1}.
 			<text>Temple Statuettes enters tapped.
 {T}: Add {G} or {U}.
 As long as you control six or more lands, when Temple Statuettes untaps for the first time each turn, scry 1.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/80.png" num="78">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/80.png" num="78">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1448,7 +1448,7 @@ As long as you control six or more lands, when Temple Statuettes untaps for the 
 			<text>Temple Thoroughfare enters tapped.
 {T}: Add {G} or {W}.
 As long as you control six or more lands, when Temple Thoroughfare untaps for the first time each turn, scry 1.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/81.png" num="79">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/81.png" num="79">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1465,7 +1465,7 @@ As long as you control six or more lands, when Temple Thoroughfare untaps for th
 			<text>Temple Wayside enters tapped.
 {T}: Add {G} or {R}.
 As long as you control six or more lands, when Temple Wayside untaps for the first time each turn, scry 1.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/82.png" num="80">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/82.png" num="80">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,7 +1482,7 @@ As long as you control six or more lands, when Temple Wayside untaps for the fir
 			<text>Omikayalan, The Dreaming Garden enters tapped.
 {1}, {T}: Add two mana of any colors from among permanents you control.
 {3}, {T}: Return target Vastaya you control to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/VST-files/img/83.png" num="73">VST</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/VST-files/img/83.png" num="73">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1497,7 +1497,7 @@ As long as you control six or more lands, when Temple Wayside untaps for the fir
 			<name>Vastayan Canyon</name>
 			<text>{3}, {T}: Add one mana of any color. Target Vastaya you control explores.
 {T}: Add {R}. Activate only if you control a red Vastaya.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/84.png" num="82">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/84.png" num="82">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1514,7 +1514,7 @@ As long as you control six or more lands, when Temple Wayside untaps for the fir
 			<text>({T}: Add {G})
 Vastaya Watchguard enters tapped.
 Whenever you&apos;re attacked, Vastaya Watchguard becomes a 2/2 green Vastaya creature with flying.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/VST-files/img/85.png" num="81">VST</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/VST-files/img/85.png" num="81">VST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

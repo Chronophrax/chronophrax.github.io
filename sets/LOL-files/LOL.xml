@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>LOL</name>
-			<longname>League of Legends Set, Champions</longname>
+			<longname>League of Legends Champions</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-20</releasedate>
+			<releasedate>2026-05-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Warwick, The Wrath of Zaun</name>
 			<text>Warwick costs {X} less to cast, where X is the total amount of damage dealt to your opponents this turn.
 When Warwick attacks, if the defending player&apos;s life total is less than their starting life total, he gains trample and +X/+0, where X is half the difference, rounded up.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/0.png" num="167">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/0.png" num="167">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -32,7 +32,7 @@ When Warwick attacks, if the defending player&apos;s life total is less than the
 			<text>Aatrox has menace and lifelink if any opponent has lost life this turn.
 Aatrox has indestructible and flying if each opponent has lost life this turn.
 Aatrox has deathtouch and haste if each player has lost life this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/1.png" num="48">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/1.png" num="48">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ Aatrox has deathtouch and haste if each player has lost life this turn.</text>
 			<name>Ahri, the Nine-Tailed Fox</name>
 			<text>Creatures you control but don&apos;t own have haste and prowess.
 {1}{UR}, {T}: Ahri deals up to 2 damage to target creature an opponent controls. Gain control of it until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/2.png" num="49">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/2.png" num="49">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@ Aatrox has deathtouch and haste if each player has lost life this turn.</text>
 			<name>Akshan, the Rogue Sentinel</name>
 			<text>Double strike, vigilance
 Whenever Akshan deals combat damage to a player, you may choose one target creature card that was put into your graveyard from the battlefield this turn. If you did, return it to your hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/3.png" num="1">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/3.png" num="1">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -87,7 +87,7 @@ Whenever Akshan deals combat damage to a player, you may choose one target creat
 			<text>Trample
 Alistar must be blocked if able.
 Creatures blocked or blocking Alistar lose all abilities until their controller&apos;s next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/4.png" num="35">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/4.png" num="35">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -106,7 +106,7 @@ Creatures blocked or blocking Alistar lose all abilities until their controller&
 			<text>Double strike, vigilance
 Last Hit — Whenever Ambessa deals lethal damage, untap her. She gains lifelink until the end of turn.
 {T}: Ambessa fights target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/5.png" num="52">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/5.png" num="52">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -125,7 +125,7 @@ Last Hit — Whenever Ambessa deals lethal damage, untap her. She gains lifelink
 			<text>Deathtouch
 If another creature would deal damage to Amumu, prevent 2 of that damage.
 Whenever another creature enters, it fights Amumu.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/6.png" num="16">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/6.png" num="16">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -144,7 +144,7 @@ Whenever another creature enters, it fights Amumu.</text>
 			<text>Flying, lifelink
 At the end of each player&apos;s draw step, they draw a card. Then you look at that players hand and choose a card. They discard that card. 
 Swain can&apos;t be the target of spells or abilities controlled by opponents with fewer cards in hand than you.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/7.png" num="150">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/7.png" num="150">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -163,7 +163,7 @@ Swain can&apos;t be the target of spells or abilities controlled by opponents wi
 			<text>Ninjutsu {1}{U}{B}
 First strike
 Whenever Akali deals combat damage, you may return her to your hand. If you do, draw a card.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/8.png" num="51">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/8.png" num="51">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -182,7 +182,7 @@ Whenever Akali deals combat damage, you may return her to your hand. If you do, 
 			<text>Flying
 Each nonsnow, nonland permanent doesn&apos;t untap during untap steps, unless its controller pays {1}.
 When Anivia dies, create Eggnivia, a legendary 0/2 blue Elemental Egg creature token with defender and &quot;At the beginning of your upkeep, sacrifice this creature and return up to one card named &quot;Anivia, the Cryophoenix&quot; from your graveyard to the battlefield.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/9.png" num="5">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/9.png" num="5">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -201,7 +201,7 @@ When Anivia dies, create Eggnivia, a legendary 0/2 blue Elemental Egg creature t
 			<text>Partner with Tibbers, Unbearable Inferno 
 If a red spell you control that targets only a single creature would deal damage, it deals double that damage instead.
 Whenever you cast your fourth red spell each turn, each Toy, Bear, and/or Demon you control gets +4/+4 until end of turn. They&apos;re goaded for the rest of the game.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/10.png" num="191">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/10.png" num="191">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -220,7 +220,7 @@ Whenever you cast your fourth red spell each turn, each Toy, Bear, and/or Demon 
 			<text>Partner with Alune, Spirit of the Faith
 If Aphelios is your Commander, you may include legendary equipment and legendary enchantment cards in your deck regardless of color identity.
 If Aphelios is equipped, he can&apos;t be blocked by creatures that aren&apos;t equipped. The same is true for enchanted.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/11.png" num="186">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/11.png" num="186">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -239,7 +239,7 @@ If Aphelios is equipped, he can&apos;t be blocked by creatures that aren&apos;t 
 			<text>Double strike, vigilance
 Ashe has power equal to the number of tapped creatures your opponents control.
 When Ashe deals damage to another creature, tap it and put a stun counter on it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/12.png" num="53">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/12.png" num="53">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +258,7 @@ When Ashe deals damage to another creature, tap it and put a stun counter on it.
 			<text>Last Hit— Whenever a spell you control deals lethal damage, you get an experience counter.
 Spells you cast with mana value less than the number of experience counters you have cost {1} less to cast for each of that spell&apos;s colors.
 If you have 10 or more experience counters, multicolored spells you cast have cascade.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/13.png" num="55">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/13.png" num="55">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -276,7 +276,7 @@ If you have 10 or more experience counters, multicolored spells you cast have ca
 			<name>Aurora, Witch Between Worlds</name>
 			<text>When Aurora phases in or out, exile another target nontoken permanent until end of turn.
 {W}{W}{W}: Aurora phases out. Create a white 1/1 Rabbit Spirit enchantment creature token with &quot;The first white noncreature spell you cast during each of your turns costs {1} less to cast.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/14.png" num="2">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/14.png" num="2">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,7 +295,7 @@ If you have 10 or more experience counters, multicolored spells you cast have ca
 			<text>Ascend, vigilance 
 While you have the City&apos;s Blessing, Sand creature tokens you control have base power X, where X is the number of Deserts you control.
 {1}{GW}, {T}: Create a colorless 1/1 Sand Soldier creature token, then each Sand Soldier token you control fights up to one target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/15.png" num="56">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/15.png" num="56">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -313,7 +313,7 @@ While you have the City&apos;s Blessing, Sand creature tokens you control have b
 			<name>Bard, Wandering Caretaker</name>
 			<text>When Bard enters or you put this card on the bottom of your library, you may reveal it. If you do, put a shield counter on another target legendary creature you control, then scry 2. 
 {2}: Put this card on top of your library then scry 2. Any number of target creatures controlled by different players phase out.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/16.png" num="58">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/16.png" num="58">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -332,7 +332,7 @@ While you have the City&apos;s Blessing, Sand creature tokens you control have b
 			<text>Devoid, double strike
 Last Hit — Whenever Bel&apos;Veth deals lethal damage to a permanent, exile it with a void counter.
 Whenever Bel&apos;Veth deals combat damage, she deals that damage an additional time for each card your opponents own in exile with a void counter.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/17.png" num="59">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/17.png" num="59">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -349,7 +349,7 @@ Whenever Bel&apos;Veth deals combat damage, she deals that damage an additional 
 			<name>Blitzcrank, Steam Golem</name>
 			<text>Whenever Blitzcrank deals damage to a creature, another target creature you control deals damage equal to its power to that creature. 
 {UR}{UR}, {T}: Blitzcrank fights target creature an opponent controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/18.png" num="60">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/18.png" num="60">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +367,7 @@ Whenever Bel&apos;Veth deals combat damage, she deals that damage an additional 
 			<name>Brand, Burning Vengeance</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Brand deals 1 damage to any target. Damage can&apos;t be prevented this turn. Players can&apos;t gain life this turn.
 Whenever a spell you control deals noncombat damage, Brand deals 1 damage to any target.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/19.png" num="26">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/19.png" num="26">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -385,7 +385,7 @@ Whenever a spell you control deals noncombat damage, Brand deals 1 damage to any
 			<name>Braum, Heart of the Freljord</name>
 			<text>Damage that would be dealt to you and other permanents you control is dealt to Braum instead.
 If Braum would be dealt damage for the first time each turn, prevent 4 of that damage.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/20.png" num="61">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/20.png" num="61">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -403,7 +403,7 @@ If Braum would be dealt damage for the first time each turn, prevent 4 of that d
 			<name>Briar, Restrained Hunger</name>
 			<text>Lifelink
 When Briar dies, if she dealt damage this turn, return her to the battlefield tapped under her owner&apos;s control and goad her.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/21.png" num="17">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/21.png" num="17">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -422,7 +422,7 @@ When Briar dies, if she dealt damage this turn, return her to the battlefield ta
 			<text>First strike, reach
 Caitlyn gets +1/+1 for each Clue andor/ Equipment you control.
 The first time each turn an opponent commits a crime, investigate.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/22.png" num="62">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/22.png" num="62">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -441,7 +441,7 @@ The first time each turn an opponent commits a crime, investigate.</text>
 			<text>First strike, flying
 When Camille deals combat damage to a player, you may look at their hand or investigate. 
 {2}, Sacrifice X artifacts: Counter target spell with mana value X, or detain up to X target creatures.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/23.png" num="63">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/23.png" num="63">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -460,7 +460,7 @@ When Camille deals combat damage to a player, you may look at their hand or inve
 			<text>Menace, wither
 Creatures you don&apos;t control with -1/-1 counters on them have decayed.
 Creatures you don&apos;t control with three or more -1/-1 counters on them are colorless artifacts with no abilities, instead of their other colors and types.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/24.png" num="65">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/24.png" num="65">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,7 +478,7 @@ Creatures you don&apos;t control with three or more -1/-1 counters on them are c
 			<name>Cho&apos;Gath, Void Hunger</name>
 			<text>Devoid, ravenous, trample, ingest
 Last Hit — Whenever Cho&apos;Gath deals lethal damage to a creature, exile it and put a number of +1/+1 counters on Cho&apos;Gath equal to its toughness.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/25.png" num="36">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/25.png" num="36">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -496,7 +496,7 @@ Last Hit — Whenever Cho&apos;Gath deals lethal damage to a creature, exile it 
 			<text>Flying, haste
 Damage that would be dealt by Corki can&apos;t be prevented.
 When Corki attacks, he deals damage equal to his power to any permanent defending player controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/26.png" num="67">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/26.png" num="67">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -515,7 +515,7 @@ When Corki attacks, he deals damage equal to his power to any permanent defendin
 			<text>Trample, haste
 Last Hit — Whenever Darius deals lethal damage, untap him. After this phase, there is an additional combat phase.
 Apprehend — {1}{B}{R}: Target creature blocks Darius this turn, if able.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/27.png" num="68">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/27.png" num="68">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Apprehend — {1}{B}{R}: Target creature blocks Darius this turn, if able.</text
 			<text>Whenever Dr. Mundo is dealt damage, put that many +1/+1 counters on Dr. Mundo.
 Whenever Dr. Mundo becomes the target of a spell or ability you don&apos;t control, double the number of counters on Dr. Mundo. 
 {G}{G}{G}: Dr. Mundo gains trample until end of turn. Regenerate Dr. Mundo.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/28.png" num="37">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/28.png" num="37">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -552,7 +552,7 @@ Whenever Dr. Mundo becomes the target of a spell or ability you don&apos;t contr
 			<name>Diana, Scorn of the Moon</name>
 			<text>First strike, protection from black, protection from face-down
 You may choose targets as though they didn&apos;t have hexproof or shroud. Ward abilities don&apos;t trigger.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/29.png" num="3">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/29.png" num="3">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -570,7 +570,7 @@ You may choose targets as though they didn&apos;t have hexproof or shroud. Ward 
 			<name>Draven, Glorious Executioner</name>
 			<text>Trample, double strike
 Draven gets +X/+0, where X is the damage he&apos;s dealt this turn plus the number of creatures that have died this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/30.png" num="71">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/30.png" num="71">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -589,7 +589,7 @@ Draven gets +X/+0, where X is the damage he&apos;s dealt this turn plus the numb
 			<text>Flash, split second
 If an opponent would begin an extra turn, they skip that turn instead. 
 {2}{U}{U}{U}, {T}, Exile Ekko until the next opponent&apos;s end step: Take an extra turn after this one. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/31.png" num="6">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/31.png" num="6">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -608,7 +608,7 @@ If an opponent would begin an extra turn, they skip that turn instead.
 			<text>Spiders you control get +2/+0 and have Deathtouch.
 Whenever another nontoken creature dies, you gain 1 life and create a 2/1 black and green spider creature token with reach.
 {B}{G}{U}: Exile Elise, then return her to the battlefield transformed at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/32.png" num="73">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/32.png" num="73">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -630,7 +630,7 @@ Whenever Evelyn deals combat damage to a player, if she has shadow, she loses sh
 • Gain control of target Planeswalker they control.
 • Sacrifice any number of permanents they own. They each deal damage equal to their mana value to them.
 • Evelynn gains shadow.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/33.png" num="75">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/33.png" num="75">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -648,7 +648,7 @@ Whenever Evelyn deals combat damage to a player, if she has shadow, she loses sh
 			<name>Ezreal, Prodigal Explorer</name>
 			<text>Prowess, first strike
 The first time Ezreal deals combat damage each turn, he explores, then deals damage equal to his power to any other target.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/34.png" num="77">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/34.png" num="77">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -668,7 +668,7 @@ The first time Ezreal deals combat damage each turn, he explores, then deals dam
 Spend only black mana to cast Fiddlesticks.
 When Fiddlesticks enters, destroy all other tapped creatures, then tap each other untapped creature. 
 At the beginning of your upkeep, you may reveal Fiddlesticks from your hand and pay {B}{B}. If you do, create a 0/1 black Scarecrow artifact creature token with defender.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/35.png" num="18">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/35.png" num="18">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -687,7 +687,7 @@ At the beginning of your upkeep, you may reveal Fiddlesticks from your hand and 
 			<text>Double strike, vigilance
 Protection from creatures forced to attack
 When Fiora deals combat damage to a player, goad target creature that player controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/36.png" num="78">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/36.png" num="78">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -706,7 +706,7 @@ When Fiora deals combat damage to a player, goad target creature that player con
 			<text>First strike
 Fizz can&apos;t be the target of spells with mana value 3 or greater.
 Whenever Fizz deals combat damage, you may exile him. If you do, return him to the battlefield under his owner&apos;s control at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/37.png" num="79">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/37.png" num="79">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,7 +725,7 @@ Whenever Fizz deals combat damage, you may exile him. If you do, return him to t
 			<text>Whenever an opponent casts or copies a noncreature spell, put a +1/+1 counter on Galio.
 While an opponent is choosing targets, they must choose Galio if able.
 The first time each turn you or Galio become the target of a spell or ability an opponent controls, counter it unless that player pays {3}.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/38.png" num="80">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/38.png" num="80">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -743,7 +743,7 @@ The first time each turn you or Galio become the target of a spell or ability an
 			<name>Gangplank, Saltwater Scourge</name>
 			<text>At the beginning of each combat create a Food token, a Treasure token, or a Keg token. (Kegs are artifacts with &quot;{T}, Sacrifice this artifact: The next time a source you control would deal damage this turn, it deals that damage plus 1 instead.&quot;)
 {1}, Sacrifice a token: If the sacrificed token was a Food, Gangplank gains hexproof and lifelink until end of turn. If it was a Keg, Gangplank deals 2 damage to any target. If it was a non-keg, non-food token, surveil 2.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/39.png" num="176">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/39.png" num="176">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ The first time each turn you or Galio become the target of a spell or ability an
 			<text>Trample, ward {1}
 When Garen deals combat damage to a creature, it loses indestructible and hexproof. 
 When Garen deals combat damage to an opponent, if their life total is less than one third of their starting life total, their life total becomes 1.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/40.png" num="81">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/40.png" num="81">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -780,7 +780,7 @@ When Garen deals combat damage to an opponent, if their life total is less than 
 			<name>Gnar, the Missing Link</name>
 			<text>Trample, haste
 Whenever Gnar deals or is dealt damage, put a +1/+1 counter on him. Then if he has 4 or more counters on him, transform him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/41.png" num="82">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/41.png" num="82">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -799,7 +799,7 @@ Whenever Gnar deals or is dealt damage, put a +1/+1 counter on him. Then if he h
 			<text>Trample, haste
 When Gnar transforms and at the beginning of each combat, he fights up to one target creature.
 At the end of each combat, remove a +1/+1 counter from Gnar. Then if he has no +1/+1 counters on him, transform him, tap him, and put a stun counter on him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/42.png" num="83">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/42.png" num="83">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +818,7 @@ At the end of each combat, remove a +1/+1 counter from Gnar. Then if he has no +
 If it&apos;s a Pirate, Graves gains double strike and trample until end of turn.
 If it&apos;s an Equipment, put it onto the battlefield attached to him. Sacrifice it at end of combat. 
 If it&apos;s a Vehicle, put it onto the battlefield tapped and attacking. It&apos;s an artifact creature until end of turn. Sacrifice it at end of combat.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/43.png" num="85">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/43.png" num="85">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -837,7 +837,7 @@ If it&apos;s a Vehicle, put it onto the battlefield tapped and attacking. It&apo
 			<text>Gwen has hexproof and double strike as long as she&apos;s attacking. 
 Combat damage that would be dealt by Gwen can&apos;t be prevented.
 Prevent all noncombat Damage that would be dealt to Gwen.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/44.png" num="86">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/44.png" num="86">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -855,7 +855,7 @@ Prevent all noncombat Damage that would be dealt to Gwen.</text>
 			<name>Heimerdinger, Revered Inventor</name>
 			<text>Artifact creature spells you cast have Offspring {E}{E} and Offspring {E}{E}{E}.
 Whenever one or more artifact creatures you control deal damage to a player, scry 2, and you get that many {E}.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/45.png" num="88">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/45.png" num="88">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -872,7 +872,7 @@ Whenever one or more artifact creatures you control deal damage to a player, scr
 		<card>
 			<name>Hwei, Brooding Visionary</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, exile the top card of your library. Until end of turn, you can cast that card unless you&apos;ve cast another spell with its mana value this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/46.png" num="89">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/46.png" num="89">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -892,7 +892,7 @@ Whenever one or more artifact creatures you control deal damage to a player, scr
 Ward—Tap an untapped creature you control with greater power and toughness than Illaoi.
 Creatures attack and block each combat if able.
 Whenever Illaoi enters or attacks, Invoke Nagakabouros, then learn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/47.png" num="199">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/47.png" num="199">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -911,7 +911,7 @@ Whenever Illaoi enters or attacks, Invoke Nagakabouros, then learn.</text>
 			<text>Dash {R}{R}{W}{W}
 Double strike
 When Irelia deals combat damage to a player for the first time each turn, you may put an equipment card with mana value less than that damage from your hand onto the battlefield attached to her.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/48.png" num="90">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/48.png" num="90">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -931,7 +931,7 @@ When Irelia deals combat damage to a player for the first time each turn, you ma
 All lands have hexproof and indestructible, and can&apos;t be sacrificed. 
 Other Plants you control have hexproof.
 Ivern can&apos;t deal damage.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/49.png" num="38">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/49.png" num="38">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -952,7 +952,7 @@ Other creatures you control with flying get +1/+1.
 Creatures you don&apos;t control with flying get -1/-1.
 {1}{U}: Target creature gains flying until end of turn.
 {1}{W}: Target creature loses flying until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/50.png" num="91">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/50.png" num="91">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -971,7 +971,7 @@ Creatures you don&apos;t control with flying get -1/-1.
 			<text>Whenever Jax deals combat damage to a permanent or player, choose one —
 • Target non-Equipment artifact you control becomes an Equipment with &quot;Equipped creature gets +1/+1&quot; as long as it&apos;s attached, then attach it to Jax.
 • He deals that much damage to the same permanent or player for each equipment attached to him without an equip ability.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/51.png" num="93">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/51.png" num="93">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -993,7 +993,7 @@ Hexproof
 • He gets +2/+0 and gains reach and first strike.
 • He gets +0/+2 and gains trample and vigilance.
 • He gains shroud and can&apos;t be blocked.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/52.png" num="94">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/52.png" num="94">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1011,7 +1011,7 @@ Hexproof
 			<name>Jinx, the Loose Cannon</name>
 			<text>Equipment spells you cast have Emerge from Equipment. The emerge cost is equal to that spell&apos;s mana cost plus discarding a card. 
 Whenever you sacrifice an Equipment, reveal cards from the top of your library until you reveal an Equipment card. Exile that card, then shuffle. You can cast the exiled card this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/53.png" num="27">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/53.png" num="27">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1030,7 +1030,7 @@ Whenever you sacrifice an Equipment, reveal cards from the top of your library u
 			<text>Trample, vigilance, ward {1}
 K&apos;Sante enters with three shield counters on him.
 Whenever a shield counter is removed from K&apos;Sante, put a +1/+1 counter on him. Then if he has no shield counters on him, he gets +4/-4 for the rest of the game.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/54.png" num="104">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/54.png" num="104">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,7 +1048,7 @@ Whenever a shield counter is removed from K&apos;Sante, put a +1/+1 counter on h
 			<name>Kai&apos;Sa, Daughter of the Void</name>
 			<text>Evolve
 Kai&apos;Sa has protection from red creatures if red mana was spent to cast her. The same is true for colorless and each color.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/55.png" num="95">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/55.png" num="95">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,7 +1067,7 @@ Kai&apos;Sa has protection from red creatures if red mana was spent to cast her.
 			<text>Double strike, soulbond
 If Kalista would deal damage while paired, she deals that much damage plus 1 instead.
 If damage would be dealt to Kalista&apos;s paired creature, prevent 1 of that damage.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/56.png" num="19">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/56.png" num="19">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1086,7 +1086,7 @@ If damage would be dealt to Kalista&apos;s paired creature, prevent 1 of that da
 			<text>Other creatures you control with power greater than toughness have trample.
 Other creatures you control with toughness greater than power have flying.
 {1}{G}{U}: Target creature you control gains +2/+0 or +0/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/57.png" num="96">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/57.png" num="96">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1104,7 +1104,7 @@ Other creatures you control with toughness greater than power have flying.
 			<name>Karthus, the Deathsinger</name>
 			<text>You may cast Karthus from your graveyard by discarding a noncreature spell in addition to paying his other costs.
 Noncreature Spells you cast cost {1} less to cast for each player who&apos;s put a creature card into their graveyard from anywhere this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/58.png" num="20">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/58.png" num="20">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1123,7 +1123,7 @@ Noncreature Spells you cast cost {1} less to cast for each player who&apos;s put
 			<text>Protection from colorless and instants
 When Kassadin enters, counter up to one target spell or ability you don&apos;t control.
 {U}{U}, Exile Kassadin: As long as he remains exiled, you may cast Kassadin from exile as though he had flash.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/59.png" num="97">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/59.png" num="97">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1141,7 +1141,7 @@ When Kassadin enters, counter up to one target spell or ability you don&apos;t c
 			<name>Katarina, the Sinister Blade</name>
 			<text>Dash {2}{B}{R} 
 Whenever Katarina becomes blocked, or becomes the target of a spell or ability an opponent controls, you may return her to your hand. If you do, she deals 1 damage to each creature you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/60.png" num="98">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/60.png" num="98">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,7 +1160,7 @@ Whenever Katarina becomes blocked, or becomes the target of a spell or ability a
 			<text>Double strike, vigilance
 Protection from Demons, Devils, and Darkin
 Whenever Kayle deals combat damage, put a +1/+1 counter on her, then choose a creature type or a noncreature card type, she gains protection from the chosen type.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/61.png" num="4">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/61.png" num="4">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1179,7 +1179,7 @@ Whenever Kayle deals combat damage, put a +1/+1 counter on her, then choose a cr
 			<text>The first time Kayn deals combat damage to a player, choose one —
 • He becomes a blue and black 6/2 Human Ninja with shadow and ward {2}
 • He becomes a black and red 4/6 Darkin Warrior with trample and lifelink</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/62.png" num="99">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/62.png" num="99">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1197,7 +1197,7 @@ Whenever Kayle deals combat damage, put a +1/+1 counter on her, then choose a cr
 			<name>Kennen, Heart of the Tempest</name>
 			<text>Prowess
 When Kennen deals combat damage to a player, he deals damage equal to his power to each creature that player controls, then tap them.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/63.png" num="100">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/63.png" num="100">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1216,7 +1216,7 @@ When Kennen deals combat damage to a player, he deals damage equal to his power 
 			<text>Devoid
 Evolve
 Whenever Kha&apos;Zix is blocked by a creature with menace, you may remove him from combat and add a menace counter or a +1/+1 counter to him. The same is true for vigilance, first strike, lifelink, deathtouch, trample, wither, and flying.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/64.png" num="101">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/64.png" num="101">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1233,7 +1233,7 @@ Whenever Kha&apos;Zix is blocked by a creature with menace, you may remove him f
 			<name>Kindred, Eternal Hunters</name>
 			<text>Indestructible doesn&apos;t prevent creatures from being destroyed by combat damage. 
 As long as Kindred is in your graveyard, whenever a nontoken creature dies, you may exile it and pay {W}{B}. If you do, return them to the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/65.png" num="102">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/65.png" num="102">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1253,7 +1253,7 @@ As long as Kindred is in your graveyard, whenever a nontoken creature dies, you 
 First strike, wither, ingest
 When Kog&apos;Maw becomes untapped, you may pay {C}{B}. If you do, he deals 2 damage to any target. 
 When Kog&apos;Maw dies, you may pay {C}{B}, if you do, exile target creature with two or more -1/-1 counters on it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/66.png" num="21">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/66.png" num="21">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1271,7 +1271,7 @@ When Kog&apos;Maw dies, you may pay {C}{B}, if you do, exile target creature wit
 			<text>A deck can have any number of cards named LeBlanc, the Deceiver
 Whenever you change the target of another player&apos;s spell, each other player casts a copy of that spell. You choose targets for those spells.
 {U}{B}{R}, Discard another card with &quot;LeBlanc&quot; in the name: Change the target of up to one target spell or ability.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/67.png" num="106">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/67.png" num="106">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1289,7 +1289,7 @@ Whenever you change the target of another player&apos;s spell, each other player
 			<name>LeBlanc, the Mastermind</name>
 			<text>You control players during their extra turns. 
 {5}, Pay 5 life: Target player takes an extra turn after this one, and skips the untap step of that turn. Any player may activate this ability but only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/68.png" num="107">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/68.png" num="107">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1307,7 +1307,7 @@ Whenever you change the target of another player&apos;s spell, each other player
 			<name>Lee Sin, the Blind Monk</name>
 			<text>When Lee Sin becomes tapped, he gets +2/+0 until end of turn and fights up to one target creature an opponent controls.
 When Lee Sin becomes untapped, he and up to one other target creature you control gain ward {2} and +0/+2 until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/69.png" num="108">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/69.png" num="108">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1326,7 +1326,7 @@ When Lee Sin becomes untapped, he and up to one other target creature you contro
 			<text>When Leona deals damage to a creature, tap it and put a stun counter on it. 
 Whenever Leona is dealt damage, prevent up to 2 of that damage.
 Leona must block if able.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/70.png" num="109">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/70.png" num="109">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1345,7 +1345,7 @@ Leona must block if able.</text>
 			<text>When Lillia deals damage to a creature put that many dust counters on it.
 Creatures with more dust counters on them than their power can&apos;t attack.
 Creatures with more dust counters on them than their toughness can&apos;t block.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/71.png" num="110">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/71.png" num="110">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1363,7 +1363,7 @@ Creatures with more dust counters on them than their toughness can&apos;t block.
 			<name>Lissandra, the Subjugatior</name>
 			<text>When Lissandra enters, tap each creature you don&apos;t control. 
 Whenever a tapped non-Elemental creature dies, exile it. If you did, create a token that&apos;s a copy of that creature, except it&apos;s a 1/1 Blue Elemental with Decayed in addition to its other colors and types.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/72.png" num="111">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/72.png" num="111">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1383,7 @@ Whenever a tapped non-Elemental creature dies, exile it. If you did, create a to
 First strike
 Whenever you cast a spell that targets Lucian, he gains Lifelink and Double strike until end of turn.
 Whenever Lucian deals combat damage to a player, exile that many cards from their graveyard.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/73.png" num="208">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/73.png" num="208">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1403,7 +1403,7 @@ Whenever Lucian deals combat damage to a player, exile that many cards from thei
 First strike, lifelink
 Whenever Senna deals combat damage to a player, exile up to one card from your graveyard.
 You can cast cards exiled this way by paying 4 life in addition to their other costs.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/74.png" num="209">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/74.png" num="209">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1423,7 +1423,7 @@ You can cast cards exiled this way by paying 4 life in addition to their other c
 • It becomes a 1/1 Squirrel.
 • It gains haste or first strike.
 • It has base toughness 5.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/75.png" num="112">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/75.png" num="112">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1442,7 +1442,7 @@ You can cast cards exiled this way by paying 4 life in addition to their other c
 			<text>Whenever you cast a noncreature spell that Lux doesn&apos;t share a color with, she gains one of that spell&apos;s colors.
 At the end of each turn, Lux becomes colorless.
 Noncreature spells you cast cost {X} less to cast, where X is number of colors Lux is.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/76.png" num="113">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/76.png" num="113">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1462,7 +1462,7 @@ Noncreature spells you cast cost {X} less to cast, where X is number of colors L
 Malphite enters with three shield counters on him. 
 Malphite gains +2/+2 for each Shield counter on him.
 {3}{G}{G}: Put a Shield Counter on Malphite. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/77.png" num="39">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/77.png" num="39">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1481,7 +1481,7 @@ Malphite gains +2/+2 for each Shield counter on him.
 			<text>Devoid, ward {C}
 Other colorless creatures you control get +1/+1 and have ward {1}.
 At the beginning of each combat, create a 1/1 colorless Mite creature token with decayed.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/78.png" num="8">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/78.png" num="8">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1498,7 +1498,7 @@ At the beginning of each combat, create a 1/1 colorless Mite creature token with
 			<name>Maokai, Twisted Treant</name>
 			<text>Maokai&apos;s power is equal to the number of Plants, Treefolk and/or land cards in all graveyards.
 At the beginning of combat on your turn, create a 2/1 plant Sapling creature token with decayed and &quot;When this creature dies, mill two cards. You may put a land from among the milled cards this way into your hand.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/79.png" num="114">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/79.png" num="114">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1516,7 +1516,7 @@ At the beginning of combat on your turn, create a 2/1 plant Sapling creature tok
 			<name>Master Yi, Wuju Bladesman</name>
 			<text>Combat damage that would be dealt by Master Yi can&apos;t be prevented.
 When Master Yi attacks, put a first strike, lifelink, or hexproof counter on him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/80.png" num="115">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/80.png" num="115">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1535,7 +1535,7 @@ When Master Yi attacks, put a first strike, lifelink, or hexproof counter on him
 			<text>Lifelink
 Magecraft — Whenever you cast or copy an instant or sorcery spell, Mel deals 1 damage to any target.
 Whenever an opponent casts a spell that targets you or Mel, you may pay {U}{R}{W}. If you did, counter it. You may copy the spell countered this way. You may choose new targets for the copy.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/81.png" num="116">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/81.png" num="116">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1553,7 +1553,7 @@ Whenever an opponent casts a spell that targets you or Mel, you may pay {U}{R}{W
 			<name>Milio, the Gentle Flame</name>
 			<text>Whenever another creature you control becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
 {R}, {T}: Another target creature you control gains haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/82.png" num="178">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/82.png" num="178">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1571,7 +1571,7 @@ Whenever an opponent casts a spell that targets you or Mel, you may pay {U}{R}{W
 			<name>Miss Fortune, Bounty Hunter</name>
 			<text>Haste, reach
 When Miss Fortune deals combat damage to a player, she deals 2 damage to each creature they control, then create a Treasure token and a Keg token.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/83.png" num="117">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/83.png" num="117">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1590,7 +1590,7 @@ When Miss Fortune deals combat damage to a player, she deals 2 damage to each cr
 			<text>Mordekaiser has indestructible as long as you have six or more creature cards in your graveyard. 
 Each legendary Black creature card in your graveyard has escape. The escape cost is equal to the card&apos;s mana cost plus exile three other cards from your graveyard. 
 Escape— {B}{B}{B}{B}, Exile six other cards from your graveyard.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/84.png" num="22">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/84.png" num="22">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1609,7 @@ Escape— {B}{B}{B}{B}, Exile six other cards from your graveyard.</text>
 			<text>Ward {1}
 At the beginning of your upkeep, each opponent may pay {2}. For each player that doesn&apos;t, tap target creature they control, then put a stun counter on it.
 Stun counters can&apos;t be removed from creatures your opponents control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/85.png" num="118">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/85.png" num="118">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1627,7 +1627,7 @@ Stun counters can&apos;t be removed from creatures your opponents control.</text
 			<name>Naafiri, Hound of 100 Bites</name>
 			<text>When Naafiri enters and at the beginning of your upkeep, if you control fewer than four Darkin Dog tokens, create two 1/1 black red Darkin Dog creature tokens.
 Sacrifice two other Dogs: Naafiri deals damage equal to her power to another target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/86.png" num="119">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/86.png" num="119">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1645,7 +1645,7 @@ Sacrifice two other Dogs: Naafiri deals damage equal to her power to another tar
 			<name>Nami, the Tidecaller</name>
 			<text>When Nami enters, tap each creature you don&apos;t control.
 When Nami blocks, tap up to one target creature shes blocking and remove it from combat.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/87.png" num="9">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/87.png" num="9">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1664,7 +1664,7 @@ When Nami blocks, tap up to one target creature shes blocking and remove it from
 			<text>Trample, ascend
 Nasus gets +1/+1 for each Experience counter you have. If you have the City&apos;s Blessing he gets +2/+2 for each, instead.
 Last Hit — Whenever Nasus deals lethal damage, you get an Experience counter and create a tapped Desert land token with &quot;{T}: Add {C}.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/88.png" num="40">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/88.png" num="40">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1683,7 +1683,7 @@ Last Hit — Whenever Nasus deals lethal damage, you get an Experience counter a
 			<text>Ward {1}
 At the beginning of combat on each player&apos;s turn, up to one target creature blocks this turn if able.
 Creatures with total power and toughness 4 or less can&apos;t attack you.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/89.png" num="120">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/89.png" num="120">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1700,7 +1700,7 @@ Creatures with total power and toughness 4 or less can&apos;t attack you.</text>
 		<card>
 			<name>Neeko, Curious Chameleon</name>
 			<text>When Neeko enters and at the beginning of your upkeep, she becomes a copy of another target creature you control until she deals or is dealt damage, except her name is &quot;Neeko, Curious Chameleon&quot; and she has this ability.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/90.png" num="121">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/90.png" num="121">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1718,7 +1718,7 @@ Creatures with total power and toughness 4 or less can&apos;t attack you.</text>
 			<name>Nilah, the Joy Unbound</name>
 			<text>Haste, first strike, protection from Demons
 When Nilah attacks, up to one other target attacking creature you control gains first strike and protection from Demons until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/91.png" num="124">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/91.png" num="124">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,7 +1738,7 @@ When Nilah attacks, up to one other target attacking creature you control gains 
 When Nocturne attacks, choose any number of target nonblack creatures, then choose one —
 • They must block this turn, if able
 • They can&apos;t block this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/92.png" num="23">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/92.png" num="23">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1757,7 +1757,7 @@ When Nocturne attacks, choose any number of target nonblack creatures, then choo
 			<text>Trample
 Nunu &amp; Willump get +1/+1 for each nonland snow permanent you control.
 Nunu &amp; Willump have double strike while attacking a Monster.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/93.png" num="125">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/93.png" num="125">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1775,7 +1775,7 @@ Nunu &amp; Willump have double strike while attacking a Monster.</text>
 			<name>Olaf, the Berserker</name>
 			<text>Olaf gets +1/+1 for each equipment attached to him. 
 Boast — {R}: Lethal damage dealt to Olaf is determined by his power rather than his toughness, until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/94.png" num="180">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/94.png" num="180">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1793,7 +1793,7 @@ Boast — {R}: Lethal damage dealt to Olaf is determined by his power rather tha
 			<name>Orianna, Lady of Clockwork</name>
 			<text>When Orianna enters and at the beginning of your upkeep, you may create &quot;The Ball&quot;, a legendary 4/4 artifact creature token with &quot;{T}: Add two mana of any one color&quot; and haste. 
 {1}, {T}: Another target artifact creature you control fights target creature you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/95.png" num="184">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/95.png" num="184">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1809,7 +1809,7 @@ Boast — {R}: Lethal damage dealt to Olaf is determined by his power rather tha
 			<name>Ornn, the Firebringer</name>
 			<text>You may spend mana as though it were mana of any color to cast artifact spells, and they cost {R} less to cast.
 {R}{R}, {T}: Put an artifact with mana value less than Ornn&apos;s toughness from your hand onto the battlefield tapped. It deals damage equal to it&apos;s mana value to any target.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/96.png" num="29">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/96.png" num="29">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1827,7 +1827,7 @@ Boast — {R}: Lethal damage dealt to Olaf is determined by his power rather tha
 			<name>Pantheon, Unbreakable Spear</name>
 			<text>Trample, haste, protection from Gods
 Whenever Pantheon attacks or blocks, he gets +X/+X, where X is the number of attacking or blocking creatures you control and gains hexproof until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/97.png" num="30">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/97.png" num="30">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1845,7 +1845,7 @@ Whenever Pantheon attacks or blocks, he gets +X/+X, where X is the number of att
 			<name>Poppy, Hammer Keeper</name>
 			<text>Whenever a creature you don&apos;t control that entered the battlefield this turn attacks or enters attacking, return it to its owner&apos;s hand. 
 Exhaust — {2}{G}{W}, {T}: Return each attacking creature you don&apos;t control to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/98.png" num="126">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/98.png" num="126">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1863,7 +1863,7 @@ Exhaust — {2}{G}{W}, {T}: Return each attacking creature you don&apos;t contro
 			<name>Pyke, Bloodharbor Ripper</name>
 			<text>Dredge 3
 {2}, {T}: Pyke deals 1 damage to target creature. When it dies this turn, create X Treasure tokens or X Keg tokens, where X is its power.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/99.png" num="128">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/99.png" num="128">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1881,7 +1881,7 @@ Exhaust — {2}{G}{W}, {T}: Return each attacking creature you don&apos;t contro
 			<name>Qiyana, Elemental Empress</name>
 			<text>You may play an additional land on each of your turns.
 Landfall — Whenever a land you control enters, if it was a Forest, draw a card. If it was an island, tap or untap any target. If it was a Mountain, Qiyana deals 2 damage to any target.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/100.png" num="129">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/100.png" num="129">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1900,7 +1900,7 @@ Landfall — Whenever a land you control enters, if it was a Forest, draw a card
 			<text>Partner with Valor, Demacia&apos;s Talons 
 Vigilance, protection from creatures that can&apos;t block
 Whenever Quinn attacks, target Bird you control deals damage equal to its power to another target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/101.png" num="200">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/101.png" num="200">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1919,7 +1919,7 @@ Whenever Quinn attacks, target Bird you control deals damage equal to its power 
 			<text>Partner with Quinn, Demacia&apos;s Wings
 Flying, first strike, vigilance
 Creatures dealt damage by Valor have &quot;Damage dealt to this creature can&apos;t be prevented. This creature can&apos;t block.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/102.png" num="204">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/102.png" num="204">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1938,7 +1938,7 @@ Creatures dealt damage by Valor have &quot;Damage dealt to this creature can&apo
 			<text>Partner with Xayah, The Rebel
 When Rakan enters, put a shield counter on target creature with &quot;Xayah&quot; in its name.
 All creatures able to block Rakan do so. Prevent all damage dealt to him by those creatures.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/103.png" num="201">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/103.png" num="201">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1957,7 +1957,7 @@ All creatures able to block Rakan do so. Prevent all damage dealt to him by thos
 			<text>Partner with Rakan, The Charmer
 When Xayah enters, put a double strike counter on target creature with &quot;Rakan&quot; in its name.
 When Xayah deals combat damage to a player, she deals up to that much divided among permanents that player controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/104.png" num="206">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/104.png" num="206">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1975,7 +1975,7 @@ When Xayah deals combat damage to a player, she deals up to that much divided am
 			<name>Rammus, the Armordillo</name>
 			<text>Haste, provoke
 Whenever another creature deals damage to Rammus, he deals that much damage to it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/105.png" num="41">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/105.png" num="41">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1994,7 +1994,7 @@ Whenever another creature deals damage to Rammus, he deals that much damage to i
 			<text>Devoid
 Trample, haste, ward— Exile two colorless cards from your hand. (Land cards are colorless)
 Rek&apos;Sai can&apos;t be blocked by creatures with flying, tokens, and/or creatures with power 3 or less.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/106.png" num="130">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/106.png" num="130">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2011,7 +2011,7 @@ Rek&apos;Sai can&apos;t be blocked by creatures with flying, tokens, and/or crea
 			<name>Rell, the Iron Maiden</name>
 			<text>Vigilance, trample
 When Rell blocks or becomes blocked, tap each creature shes blocking or blocked and remove them from combat. Creatures tapped this way have no abilities until they untap.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/107.png" num="131">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/107.png" num="131">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2029,7 +2029,7 @@ When Rell blocks or becomes blocked, tap each creature shes blocking or blocked 
 			<name>Renata Glasc, Chem-Baroness</name>
 			<text>When Renata Glasc enters, Goad each creature you don&apos;t control. 
 Whenever you&apos;re attacked by a Goaded creature, it fights another target attacking creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/108.png" num="132">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/108.png" num="132">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2048,7 +2048,7 @@ Whenever you&apos;re attacked by a Goaded creature, it fights another target att
 			<text>Ascend, Lifelink, Haste
 Renekton can&apos;t be blocked by more than two creatures.
 If you have the City&apos;s blessing, Renekton has +2/+2, and gains trample and menace.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/109.png" num="133">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/109.png" num="133">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2067,7 +2067,7 @@ If you have the City&apos;s blessing, Renekton has +2/+2, and gains trample and 
 			<text>Trample
 Rengar can&apos;t be blocked by creatures with less power. 
 {R}{G}, {T}: Rengar deals 3 damage to target creature. When it dies this turn, put a +1/+1 counter on him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/110.png" num="134">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/110.png" num="134">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2086,7 +2086,7 @@ Rengar can&apos;t be blocked by creatures with less power.
 			<text>Partner with The Broken Blade
 Equipment spells you cast cost {2} less to cast, and can&apos;t be countered.
 Whenever you sacrifice an equipment attached to Riven, she gains indestructible and trample until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/111.png" num="202">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/111.png" num="202">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2104,7 +2104,7 @@ Whenever you sacrifice an equipment attached to Riven, she gains indestructible 
 			<name>Rumble, Mechanized Menace</name>
 			<text>When Rumble enters, create &quot;Tristy, Ready To Rumble!&quot;, a legendary 6/6 artifact vehicle with trample, crew 3 and &quot;Only Yordles can crew Tristy&quot; 
 {R}: Target vehicle gets +1/+1 until end of turn. You can&apos;t cast spells this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/112.png" num="135">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/112.png" num="135">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2123,7 +2123,7 @@ Whenever you sacrifice an equipment attached to Riven, she gains indestructible 
 			<text>Whenever you cast a noncreature spell, Ryze gains protection from it&apos;s mana value, then draw a card.
 You have no maximum hand size.
 Spells can&apos;t be countered.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/113.png" num="10">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/113.png" num="10">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2141,7 +2141,7 @@ Spells can&apos;t be countered.</text>
 			<name>Ryze, the Rune Mage</name>
 			<text>Instants and sorcery cards in your hand have Surge. The Surge cost is equal to the card&apos;s mana cost reduced by {U}.
 Whenever you cast a legendary instant or sorcery spell, put up to one creature card with lesser mana value from your hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/114.png" num="11">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/114.png" num="11">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2160,7 +2160,7 @@ Whenever you cast a legendary instant or sorcery spell, put up to one creature c
 			<text>Samira&apos;s power is equal to the number of Treasures you control.
 Last Hit — Whenever Samira deals lethal damage, create that many Treasure tokens 
 Sacrifice two Treasures: Samira gains haste, trample, menace, deathtouch, or double strike until end of turn. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/115.png" num="31">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/115.png" num="31">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2179,7 +2179,7 @@ Sacrifice two Treasures: Samira gains haste, trample, menace, deathtouch, or dou
 			<text>Trample, haste
 Whenever Sejuani deals combat damage to a creature, tap it. 
 Whenever Sejuani deals combat damage to a player, distribute that many stun counters among nonland permanents they control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/116.png" num="136">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/116.png" num="136">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2196,7 +2196,7 @@ Whenever Sejuani deals combat damage to a player, distribute that many stun coun
 		<card>
 			<name>Seraphine, Dazzling Star</name>
 			<text>Creatures you control have ward {1} and protection from each color of mana you&apos;ve spent to cast spells this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/117.png" num="137">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/117.png" num="137">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2215,7 +2215,7 @@ Whenever Sejuani deals combat damage to a player, distribute that many stun coun
 			<text>Showtime — Whenever a creature fights, create a Treasure token.
 Sacrifice a Treasure: Target creature can&apos;t be dealt noncombat damage by creatures this turn.
 Sacrifice 3 Treasures: Target creature fights another target creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/118.png" num="139">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/118.png" num="139">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2234,7 +2234,7 @@ Sacrifice 3 Treasures: Target creature fights another target creature.</text>
 			<text>Deathtouch
 When Shaco enters or is turned face up, and at the beginning of your upkeep, cloak the top card of your library. 
 {B}{R}: Cloak Shaco, then shuffle your face-down creatures and remove them from combat.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/119.png" num="140">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/119.png" num="140">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2252,7 +2252,7 @@ When Shaco enters or is turned face up, and at the beginning of your upkeep, clo
 			<name>Shen, the Eye of Twilight</name>
 			<text>{G}{W}{U}, Return a blocking creature you control to its owner&apos;s hand: Put Shen onto the battlefield from your hand or command zone blocking the same creatures.
 Prevent all combat damage that would be dealt to creatures you control with power less than Shen&apos;s toughness.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/120.png" num="141">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/120.png" num="141">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2270,7 +2270,7 @@ Prevent all combat damage that would be dealt to creatures you control with powe
 			<name>Shyvana, Half-Dragon</name>
 			<text>Whenever a non-Human Dragon dies, put a +1/+1 counter on Shyvana and draw a card.
 When Shyvana deals combat damage to a player, transform her.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/121.png" num="182">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/121.png" num="182">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2288,7 +2288,7 @@ When Shyvana deals combat damage to a player, transform her.</text>
 			<name>Singed, the Mad Chemist</name>
 			<text>Whenever another creature untaps, you may pay {1}. If you do, put a -1/-1 counter on it.
 When Singed attacks, choose odd or even. Then tap each creature defending player controls with mana value of the chosen quality.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/122.png" num="143">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/122.png" num="143">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2306,7 +2306,7 @@ When Singed attacks, choose odd or even. Then tap each creature defending player
 			<name>Sion, Undead Juggernaut</name>
 			<text>Dethrone, persist, trample, haste
 Sion must be blocked if able</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/123.png" num="144">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/123.png" num="144">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2325,7 +2325,7 @@ Sion must be blocked if able</text>
 			<text>Double strike, haste
 Other creatures you control have haste. 
 Whenever Sivir deals combat damage, she deals 1 damage to up to 2 other targets.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/124.png" num="145">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/124.png" num="145">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2344,7 +2344,7 @@ Whenever Sivir deals combat damage, she deals 1 damage to up to 2 other targets.
 			<text>Trample
 When Skarner attacks or blocks, Earthbend 2.
 Whenever you put one or more +1/+1 counters on a land, put a +1/+1 counter on on Skarner. Then he fights target creature an opponent controls.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/125.png" num="42">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/125.png" num="42">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2362,7 +2362,7 @@ Whenever you put one or more +1/+1 counters on a land, put a +1/+1 counter on on
 			<name>Sona, Maven of the Strings</name>
 			<text>Other red creatures you control have haste. The same is true for green and trample, blue and flying, white and lifelink, black and menace. 
 Other multicolored creatures you control have ward {1}.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/126.png" num="147">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/126.png" num="147">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2379,7 +2379,7 @@ Other multicolored creatures you control have ward {1}.</text>
 		<card>
 			<name>Soraka, the Starchild</name>
 			<text>Whenever a source you don&apos;t control would deal damage to you or another permanent you control, prevent all but 2 of that damage.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/127.png" num="148">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/127.png" num="148">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2398,7 +2398,7 @@ Other multicolored creatures you control have ward {1}.</text>
 			<text>Suspend 6— {U}{U}
 When an opponent casts an instant, sorcery, or legendary spell while Sylas is suspended, remove a time counter from him. 
 When Sylas enters or attacks, exile target card from an opponents graveyard. You can cast instant and sorcery cards exiled this way without paying their mana cost.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/128.png" num="12">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/128.png" num="12">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2417,7 +2417,7 @@ When Sylas enters or attacks, exile target card from an opponents graveyard. You
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, lose 1 life and create an Orb token, it&apos;s a black 0/1 Eye creature token with decayed.
 Instant and Sorcery spells you cast have Convoke.
 Whenever you untap one or more Eyes, Syndra deals that much damage to any target.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/129.png" num="151">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/129.png" num="151">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2436,7 +2436,7 @@ Whenever you untap one or more Eyes, Syndra deals that much damage to any target
 			<text>When Tahm Kench enters, each player may exile the top three cards of their library face down, then search their library for card, put it into their hand and shuffle. 
 Tahm Kench has protection from each player who searched their library this way.
 Whenever a player searches their library, they discard a card at random, then you gain 3 life.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/130.png" num="152">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/130.png" num="152">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2454,7 +2454,7 @@ Whenever a player searches their library, they discard a card at random, then yo
 			<name>Taliyah, the Stoneweaver</name>
 			<text>Desertwalk, Vigilance, Protection from Sand
 When Taliyah enters or attacks, put a Sand counter on X target creatures or lands, where X is the number of deserts you control. (Lands with Sand counters on them are Deserts in addition to their other types.)</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/131.png" num="43">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/131.png" num="43">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2472,7 +2472,7 @@ When Taliyah enters or attacks, put a Sand counter on X target creatures or land
 			<name>Talon, Blade&apos;s Shadow</name>
 			<text>Talon can&apos;t be blocked by creatures without Vigilance or Defender.
 When Talon enters, destroy target creature and create a Treasure token.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/132.png" num="153">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/132.png" num="153">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2491,7 +2491,7 @@ When Talon enters, destroy target creature and create a Treasure token.</text>
 			<text>Lifelink, soulbond
 As long as Taric is paired with another creature, both creatures have ward {1} and vigilance.
 Whenever you cast an instant or sorcery spell that targets only Taric while he&apos;s paired, if that spell could target his paired creature, copy that spell. The copy targets Taric&apos;s paired creature.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/133.png" num="154">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/133.png" num="154">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2510,7 +2510,7 @@ Whenever you cast an instant or sorcery spell that targets only Taric while he&a
 			<text>Teemo has hexproof while untapped
 Whenever Teemo blocks, target creature he&apos;s blocking deals no combat damage this turn.
 Whenever Teemo becomes blocked, put a -1/-1 counter on each creature blocking him.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/134.png" num="155">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/134.png" num="155">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2528,7 +2528,7 @@ Whenever Teemo becomes blocked, put a -1/-1 counter on each creature blocking hi
 			<name>Thresh, the Chain Warden</name>
 			<text>Creatures you don&apos;t control with less toughness than Thresh are goaded.
 Whenever a creature attacks you, Thresh deals 1 damage to it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/135.png" num="156">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/135.png" num="156">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2548,7 +2548,7 @@ Whenever a creature attacks you, Thresh deals 1 damage to it.</text>
 The first time each turn Tristana deals combat damage to a player, untap her, there&apos;s an additional combat phase after this one and choose one —
 • She can&apos;t be blocked by creatures without flying or reach until end of turn.
 • She gains Double strike until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/136.png" num="32">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/136.png" num="32">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2566,7 +2566,7 @@ The first time each turn Tristana deals combat damage to a player, untap her, th
 			<name>Trundle, True King of Trolls</name>
 			<text>Trample
 When Trundle becomes blocked, he gets +X/+0, where X is the greatest power or toughness among other attacking or blocking creatures.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/137.png" num="44">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/137.png" num="44">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2584,7 +2584,7 @@ When Trundle becomes blocked, he gets +X/+0, where X is the greatest power or to
 			<name>Tryndamere, Barbarian King</name>
 			<text>When Tryndamere attacks, he gains indestructible until end of turn and fights up to one target Coward. 
 When Tryndamere becomes blocked, each nonblocking creature defending player controls loses all abilities until end of combat, and becomes a Coward in addition to its other types until Tryndamere leaves the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/138.png" num="33">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/138.png" num="33">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2604,7 +2604,7 @@ When Tryndamere becomes blocked, each nonblocking creature defending player cont
 If it&apos;s white, Twisted Fate gains hexproof and lifelink until end of turn. 
 If it&apos;s red, exile it. You may play it this turn.
 If it&apos;s blue, scry 1, then draw a card.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/139.png" num="157">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/139.png" num="157">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2623,7 +2623,7 @@ If it&apos;s blue, scry 1, then draw a card.</text>
 			<text>Double strike, wither
 At the beginning of your upkeep, each other player Blights {X}, where X is Twitch&apos;s power.
 Creatures with -1/-1 counters on them can&apos;t block Twitch.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/140.png" num="158">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/140.png" num="158">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2641,7 +2641,7 @@ Creatures with -1/-1 counters on them can&apos;t block Twitch.</text>
 			<name>Urgot, The Dreadnought</name>
 			<text>Trample, menace
 Whenever Urgot deals combat damage, he deals half that much damage divided among other creatures defending player controls, rounded down.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/141.png" num="159">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/141.png" num="159">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2659,7 +2659,7 @@ Whenever Urgot deals combat damage, he deals half that much damage divided among
 			<name>Varus, Arrow of Retribution</name>
 			<text>Reach, deathtouch
 When Varus attacks, he deals 1 damage to each creature defending player controls that was dealt damage this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/142.png" num="160">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/142.png" num="160">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2677,7 +2677,7 @@ When Varus attacks, he deals 1 damage to each creature defending player controls
 			<name>Vayne, the Night Hunter</name>
 			<text>Double strike, infect
 Whenever Vayne deals combat damage to a permanent or player, for each kind of counter on it, put another counter of that kind on it or remove one from it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/143.png" num="161">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/143.png" num="161">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2696,7 +2696,7 @@ Whenever Vayne deals combat damage to a permanent or player, for each kind of co
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Veigar.
 {U}{B}, {T}: Counter target spell with mana value less than Veigar&apos;s power. It&apos;s controller draws a card.
 {B}{R}, {T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is Veigar&apos;s power.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/144.png" num="162">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/144.png" num="162">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2715,7 +2715,7 @@ Whenever Vayne deals combat damage to a permanent or player, for each kind of co
 			<text>Devoid 
 Whenever you cast or copy an instant or sorcery spell, learn.
 Whenever you behold, discover, scry, surveil, or investigate, target creature gets -1/-1 until end of turn, then exile it if its power is 1 or less.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/145.png" num="163">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/145.png" num="163">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2733,7 +2733,7 @@ Whenever you behold, discover, scry, surveil, or investigate, target creature ge
 			<text>Partner with Shadow, the Absence of Joy
 Magecraft — Whenever you cast or copy an instant or sorcery spell, you draw a card and lose 1 life.
 Whenever a player casts or copies a spell, Vex deals 1 damage to them for each color it is other than black.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/146.png" num="190">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/146.png" num="190">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2752,7 +2752,7 @@ Whenever a player casts or copies a spell, Vex deals 1 damage to them for each c
 			<text>Trample
 Creatures blocking or blocked by Vi lose all abilities until end of turn.
 Combat damage that would be dealt by Vi can&apos;t be prevented.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/147.png" num="164">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/147.png" num="164">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2771,7 +2771,7 @@ Combat damage that would be dealt by Vi can&apos;t be prevented.</text>
 			<text>When Viego enters, exile target creature.
 Whenever Viego deals combat to a player, you may cast a creature spell from among cards exiled by him without paying its mana cost. It enters as a black Zombie in addition to its other types and colors.
 Escape— {3}{B}{B}{B}, exile five other cards from your graveyard.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/148.png" num="24">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/148.png" num="24">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2792,7 +2792,7 @@ The first time each turn you cast or copy an instant or sorcery spell, you get {
 Pay {E}{E}: You gain 1 life. Activate only once each turn.
 Pay 2 life: You get {E}. Activate only once each turn.
 Pay X {E}: Counter target spell with mana value X, its controller draws X cards and loses X life.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/149.png" num="210">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/149.png" num="210">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2811,7 +2811,7 @@ Pay X {E}: Counter target spell with mana value X, its controller draws X cards 
 			<text>Vladimir costs {1} less to cast for each 1 life you&apos;ve gained this turn.
 Whenever you cast an instant or sorcery spell, gain 1 life and put a +1/+1 counter on Vladimir.
 Instant and sorcery spells you cast cost {1} less to cast for each 1 life you&apos;ve gained this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/150.png" num="165">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/150.png" num="165">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2829,7 +2829,7 @@ Instant and sorcery spells you cast cost {1} less to cast for each 1 life you&ap
 			<name>Volibear, Relentless Storm</name>
 			<text>Trample
 Whenever Volibear deals combat damage while attacking, he deals 1 damage to each other creature defending player controls, then put a shield counter on him if he doesn&apos;t have one.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/151.png" num="166">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/151.png" num="166">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2849,7 +2849,7 @@ Whenever Volibear deals combat damage while attacking, he deals 1 damage to each
 Trample, haste, myriad
 Wukong isn&apos;t legendary during your turn if he&apos;s a token.
 When Wukong dies, you may sacrifice a token with the same name. If you did, return Wukong to the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/152.png" num="45">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/152.png" num="45">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2868,7 +2868,7 @@ When Wukong dies, you may sacrifice a token with the same name. If you did, retu
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, draw a card. You have no maximum hand size until end of turn.
 You can&apos;t lose the game while you have more cards in hand than each opponent.
 Whenever you lose life, for each 1 life you lost, exile a card from your hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/153.png" num="13">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/153.png" num="13">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2886,7 +2886,7 @@ Whenever you lose life, for each 1 life you lost, exile a card from your hand.</
 			<name>Xin Zhao, Seneschal of Demacia</name>
 			<text>First strike, lifelink
 As Xin Zhao enters and whenever a player leaves the game, you may choose an opponent. If you did, Xin Zhao has protection from each other opponent and each other opponent has Protection from Xin Zhao until a player leaves the game.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/154.png" num="168">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/154.png" num="168">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2904,7 +2904,7 @@ As Xin Zhao enters and whenever a player leaves the game, you may choose an oppo
 			<name>Yasuo, the Unforgiven</name>
 			<text>The first time each turn Yasuo becomes the target of a spell an opponent controls, or would be dealt damage by a creature, instead Airbend that spell or creature.
 Spells opponents cast from exile cost {1} more to cast.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/155.png" num="169">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/155.png" num="169">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2923,7 +2923,7 @@ Spells opponents cast from exile cost {1} more to cast.</text>
 			<text>Yone costs {3} less to cast from exile.
 Combat damage that would be dealt by Yone can&apos;t be prevented.
 If Yone would be destroyed while attacking or blocking, instead exile him. You may cast him as long as he remains exiled this way.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/156.png" num="170">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/156.png" num="170">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2941,7 +2941,7 @@ If Yone would be destroyed while attacking or blocking, instead exile him. You m
 			<name>Yorick, Shepherd of Souls</name>
 			<text>Haunted — You can have two commanders if the other is a legendary Skeleton, Spirit, Wraith, or Zombie and isn&apos;t a Monk. It starts the game in your graveyard.
 Whenever a nontoken creature dies, exile that card. If you did, create a 2/2 Zombie creature token with decayed. If Yorick is exiled this way, return him from exile to the battlefield tapped at the beginning of your next upkeep.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/157.png" num="207">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/157.png" num="207">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2959,7 +2959,7 @@ Whenever a nontoken creature dies, exile that card. If you did, create a 2/2 Zom
 			<name>The Maiden of the Mist</name>
 			<text>Whenever a Skeleton, Spirit, Wraith, and/or Zombie token you control with base power 2 or less attacks, defending player loses 1 life and you gain 1 life. 
 At the beginning of each end step, if The Maiden is in your graveyard and you created four or more Skeleton, Spirit, Wraith, and/or Zombie tokens this turn, return her to the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/158.png" num="187">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/158.png" num="187">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2977,7 +2977,7 @@ At the beginning of each end step, if The Maiden is in your graveyard and you cr
 			<name>Yuumi, the Magical Cat</name>
 			<text>{G}{W}, {T}: Attach Yuumi to target creature. She becomes an Aura as long as she&apos;s attached this way. (She&apos;s not a creature.)
 Enchanted creature gets +1/+1 and has first strike and lifelink.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/159.png" num="171">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/159.png" num="171">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2995,7 +2995,7 @@ Enchanted creature gets +1/+1 and has first strike and lifelink.</text>
 			<name>Zac, the Secret Weapon</name>
 			<text>Zac enters with X +1/+1 counters on him. 
 The first time each turn Zac is dealt damage, prevent that damage and remove that many +1/+1 counters from him. At the end of each turn, put a +1/+1 counter on Zac for each counter removed this way plus one.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/160.png" num="47">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/160.png" num="47">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3014,7 +3014,7 @@ The first time each turn Zac is dealt damage, prevent that damage and remove tha
 			<text>Lifelink
 Whenever Zaahen attacks or blocks, put a +1/+1 counter on him.
 When Zaahen dies, if he had three or more +1/+1 counters on him, return him to the battlefield tapped at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/161.png" num="172">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/161.png" num="172">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3033,7 +3033,7 @@ When Zaahen dies, if he had three or more +1/+1 counters on him, return him to t
 			<text>Ninjutsu {B}{B}{B}
 Whenever Zed attacks, create a 4/2 black Shade Ninja creature token with Decayed and Shadow. It enters tapped and attacking.
 {B}{B}: Return Zed to his owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/162.png" num="25">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/162.png" num="25">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3051,7 +3051,7 @@ Whenever Zed attacks, create a 4/2 black Shade Ninja creature token with Decayed
 			<name>Zeri, the Spark of Zaun</name>
 			<text>Haste, first strike
 When Zeri attacks, she deals 1 damage to defending player and each creature they control. Then her base power becomes the amount of damage dealt this way.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/163.png" num="173">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/163.png" num="173">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3069,7 +3069,7 @@ When Zeri attacks, she deals 1 damage to defending player and each creature they
 			<name>Ziggs, Hexplosives Expert</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. 
 At the end of each turn, Ziggs deals damage to any target equal to the number of cards you&apos;ve discarded this turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/164.png" num="34">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/164.png" num="34">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3088,7 +3088,7 @@ At the end of each turn, Ziggs deals damage to any target equal to the number of
 			<text>Suspend 5—{3}{U}
 When the last time counter is removed from Zilean while he&apos;s exiled, take an extra turn after this one.
 {U}{U}{U}{U}: Exile target creature or spell with two time counters. It gains suspend. Its controller draws two cards.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/165.png" num="14">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/165.png" num="14">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3109,7 +3109,7 @@ When the last time counter is removed from Zilean while he&apos;s exiled, take a
 • Tap or untap up to two target permanents.
 • Draw two cards, then discard a card.
 • Scry 2, then scry 2.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/166.png" num="174">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/166.png" num="174">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3128,7 +3128,7 @@ When the last time counter is removed from Zilean while he&apos;s exiled, take a
 			<text>Other Plants you control get +1/+1 and have deathtouch and haste.
 Whenever Zyra enters, create two 0/1 green Plant tokens.
 {X}{BG}, Sacrifice a Plant, discard X cards: Draw X cards and create X 0/1 green Plant tokens.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/167.png" num="175">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/167.png" num="175">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3148,7 +3148,7 @@ Whenever Zyra enters, create two 0/1 green Plant tokens.
 Level Up {E}{E}
 [level 1-6] Hexcore has all activated abilities of each other Artifact on the battlefield.
 [level 7+] Pay X{E}: Gain control of each creature with mana value less than X.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/168.png" num="212">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/168.png" num="212">LOL</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -3164,7 +3164,7 @@ Level Up {E}{E}
 			<text>Flying, trample
 When Shyvana transforms, she deals damage equal to her power divided as you choose among any number of targets.
 When Shyvana deals combat damage to a player, draw a card.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/169.png" num="142">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/169.png" num="142">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3182,7 +3182,7 @@ When Shyvana deals combat damage to a player, draw a card.</text>
 			<name>Sultur, the Enticer</name>
 			<text>Partner with Vora, The Insatiable
 At the beginning of your upkeep, each other player chooses 1, 2, or 3, then creates that many Treasure tokens. Then for each token created this way, you create a tapped Treasure token and goad up to one target creature.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/170.png" num="203">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/170.png" num="203">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3201,7 +3201,7 @@ At the beginning of your upkeep, each other player chooses 1, 2, or 3, then crea
 			<text>Lifelink
 Whenever an opponent gains life or pays life, you gain that much life.
 Whenever an opponent casts a spell or activates an ability that isn&apos;t a mana ability, counter it unless they pay 2 life.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/171.png" num="149">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/171.png" num="149">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3219,7 +3219,7 @@ Whenever an opponent casts a spell or activates an ability that isn&apos;t a man
 			<name>Dominion, Above All</name>
 			<text>Whenever another creature dies, if it had counters on it, put those counters on Dominion.
 Other creatures enter with your choice of an additional +1/+1, -1/-1, trample or lifelink counter.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/172.png" num="69">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/172.png" num="69">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3238,7 +3238,7 @@ Other creatures enter with your choice of an additional +1/+1, -1/-1, trample or
 			<text>Flying, menace, trample
 Sacrifice another nontoken creature: Double Atakhan&apos;s power until end of turn.
 At the end of each turn Atakhan dealt combat damage, you lose that much life.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/173.png" num="54">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/173.png" num="54">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3257,7 +3257,7 @@ At the end of each turn Atakhan dealt combat damage, you lose that much life.</t
 			<text>Flying, trample
 Whenever another creature attacks or blocks, put a -1/-1 counter on it.
 Whenever a creature dies, if it had 0 power or toughness, put a +1/+1 counter on Camphor.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/174.png" num="64">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/174.png" num="64">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3275,7 +3275,7 @@ Whenever a creature dies, if it had 0 power or toughness, put a +1/+1 counter on
 			<name>Solitude, Duplicitous</name>
 			<text>Shroud
 Whenever a creature attacks you alone, Solitude gets +6/+4 and gains flying, deathtouch, and lifelink and loses shroud, until end of turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/175.png" num="146">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/175.png" num="146">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3293,7 +3293,7 @@ Whenever a creature attacks you alone, Solitude gets +6/+4 and gains flying, dea
 			<name>Airis, Love&apos;s Reflection</name>
 			<text>When Airis blocks or becomes blocked by a creature, if she has each of its creature types, exile it. Then Airis gains each of its creature types, and protection from those types. 
 {U}{R}{W}: Choose a creature type. Airis gets +1/+1 and gains that type until end of turn.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/176.png" num="50">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/176.png" num="50">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3313,7 +3313,7 @@ Whenever a creature attacks you alone, Solitude gets +6/+4 and gains flying, dea
 Vigilance
 Vora, the Insatiable must block if able.
 When Vora blocks a creature, put a +1/+1 counter on her. Then she becomes a copy of that creature until end of turn, except her name is &quot;Vora, the Insatiable&quot;.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/177.png" num="205">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/177.png" num="205">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3332,7 +3332,7 @@ When Vora blocks a creature, put a +1/+1 counter on her. Then she becomes a copy
 			<text>When Eldred enters, and at the beginning of your upkeep, each player creates a 1/1 white Human creature token.
 Whenever a player casts an instant or sorcery spell, each creature token they control deals 1 damage to them.
 When a creature token enters it deals 1 damage to its controller.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/178.png" num="72">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/178.png" num="72">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3351,7 +3351,7 @@ When a creature token enters it deals 1 damage to its controller.</text>
 			<text>Partner with Annie, The Dark Child
 Spectacle {R}{R}{R}{R}
 Whenever one or more red sources deal damage, Tibbers gets +2/+0 until end of turn. Then if Tibbers has power 10 or greater, exile him, then return him to the battlefield transformed under his owner&apos;s control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/179.png" num="194">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/179.png" num="194">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3370,7 +3370,7 @@ Whenever one or more red sources deal damage, Tibbers gets +2/+0 until end of tu
 			<text>Haste, protection from nonred
 Players can&apos;t gain life.
 When Tybaulk transforms, it deals X damage to each player and each nonred creature, where X is half of your life total, rounded up.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/180.png" num="195">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/180.png" num="195">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3389,7 +3389,7 @@ When Tybaulk transforms, it deals X damage to each player and each nonred creatu
 			<text>Dredge 6
 When Pyke dies, note each creature&apos;s name.
 Whenever another creature dies, if it&apos;s name was noted, exile that card, then draw a card. If you did, its controller discards a card, then mills cards equal to its power.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/181.png" num="181">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/181.png" num="181">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3409,7 +3409,7 @@ Whenever another creature dies, if it&apos;s name was noted, exile that card, th
 • Create a 2/1 black and green Spider creature token with reach.
 • Tap target creature they control, it has base power 0 until the beginning of their next turn.
 • Exile Elise, then return her to the battlefield transformed at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/182.png" num="74">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/182.png" num="74">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3426,7 +3426,7 @@ Whenever another creature dies, if it&apos;s name was noted, exile that card, th
 		<card>
 			<name>Lamb and Wolf, Indivisible</name>
 			<text>Death can&apos;t be prevented. (Replacement effects for creatures being put into the graveyard have no effect. Creatures that would be destroyed are.)</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/183.png" num="105">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/183.png" num="105">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3445,7 +3445,7 @@ Whenever another creature dies, if it&apos;s name was noted, exile that card, th
 			<text>Flash
 Prowess, haste
 Whenever you cast an instant or a spell with flash, Kennen gets+X/+X until end of turn, where X is that spell&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/184.png" num="177">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/184.png" num="177">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3462,7 +3462,7 @@ Whenever you cast an instant or a spell with flash, Kennen gets+X/+X until end o
 		<card>
 			<name>Azir, Godking of Shurima</name>
 			<text>When Azir attacks, each other creature loses all abilities, colors, and creature types, and has base power and toughness 1/1 until end of turn. Then, for each of those creatures, create a 1/1 Sand Soldier creature token. They enter tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/185.png" num="57">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/185.png" num="57">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3481,7 +3481,7 @@ Whenever you cast an instant or a spell with flash, Kennen gets+X/+X until end o
 			<text>Trample, haste
 Whenever Sett is dealt damage, he gets +2/+2 until end of turn.
 {R}{G}: Sett fights target creature you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/186.png" num="138">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/186.png" num="138">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3500,7 +3500,7 @@ Whenever Sett is dealt damage, he gets +2/+2 until end of turn.
 			<text>Partner with Aphelios, Weapon of the Faith
 Choose a permanent attached to a legendary Cleric you control: Search your library for a card with the same card types as the chosen permanent and has mana value equal to 1 plus the chosen permanent&apos;s mana value. Then put it onto the battlefield attached to that cleric, and shuffle the chosen permanent into your library.
 Activate only as a sorcery and only once each turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/187.png" num="185">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/187.png" num="185">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3516,7 +3516,7 @@ Activate only as a sorcery and only once each turn.</text>
 		<card>
 			<name>Rabbit Spirit LOL</name>
 			<text>The first white noncreature spell you cast during each of your turns costs {1} less to cast.</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/188.png" num="3">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/188.png" num="3">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3534,7 +3534,7 @@ Activate only as a sorcery and only once each turn.</text>
 		<card>
 			<name>Sand Soldier LOL</name>
 			<text></text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/189.png" num="2">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/189.png" num="2">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3551,7 +3551,7 @@ Activate only as a sorcery and only once each turn.</text>
 			<name>Eggnivia LOL</name>
 			<text>Defender
 At the beginning of your upkeep, sacrifice this creature and return up to one card named &quot;Anivia, The Cryophoenix&quot; from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/190.png" num="1">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/190.png" num="1">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3567,7 +3567,7 @@ At the beginning of your upkeep, sacrifice this creature and return up to one ca
 		<card>
 			<name>Orb LOL</name>
 			<text>Decayed</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/191.png" num="4">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/191.png" num="4">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3585,7 +3585,7 @@ At the beginning of your upkeep, sacrifice this creature and return up to one ca
 		<card>
 			<name>Scarecrow LOL</name>
 			<text>Defender</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/192.png" num="5">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/192.png" num="5">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3603,7 +3603,7 @@ At the beginning of your upkeep, sacrifice this creature and return up to one ca
 		<card>
 			<name>Keg LOL</name>
 			<text>{T}, Sacrifice this artifact: The next time a source you control would deal damage this turn, it deals that damage plus 1 instead.</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/193.png" num="9">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/193.png" num="9">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3618,7 +3618,7 @@ At the beginning of your upkeep, sacrifice this creature and return up to one ca
 		<card>
 			<name>Daisy LOL</name>
 			<text></text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/194.png" num="6">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/194.png" num="6">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,7 +3638,7 @@ At the beginning of your upkeep, sacrifice this creature and return up to one ca
 			<text>Trample, haste
 When Kled enters or deals combat damage to a player, you may create &quot;Skarrl, The Loyal Lizard&quot;, a legendary 0/4 green Lizard Mount creature token with &quot;Skarrl can&apos;t attack or block unless she&apos;s saddled.&quot; and Saddle 4.
 When Kled saddles a mount, it gains trample and haste and gets +X/+0 until the end of turn, where X is his power.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/195.png" num="103">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/195.png" num="103">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3656,7 +3656,7 @@ When Kled saddles a mount, it gains trample and haste and gets +X/+0 until the e
 			<name>Skarrl, The Loyal Lizard LOL</name>
 			<text>Saddle 3
 Skarrl can&apos;t attack or block unless she&apos;s saddled.</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/196.png" num="7">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/196.png" num="7">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3675,7 +3675,7 @@ Skarrl can&apos;t attack or block unless she&apos;s saddled.</text>
 			<name>The Ball LOL</name>
 			<text>Haste
 {T}: Add two mana of any one color.</text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/197.png" num="8">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/197.png" num="8">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3693,7 +3693,7 @@ Skarrl can&apos;t attack or block unless she&apos;s saddled.</text>
 			<text>Trample, haste, ward— Sacrifice two Treasures
 When Dr. Mundo deals combat damage to a player, they may create that many treasure tokens. If they do, create that many treasure tokens.
 Sacrifice X Treasures: Create X Treasure tokens. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/198.png" num="70">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/198.png" num="70">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3713,7 +3713,7 @@ Sacrifice X Treasures: Create X Treasure tokens. Activate only as a sorcery and 
 Whenever equipped creature deals combat damage, put a charge counter on Broken Blade. Then if it has four or more counters on it, transform it. 
 Equipped creature gets +1/+1 for each charge counter on Broken Blade of the Exile.
 Equip— {1}, Remove all counters from Broken Blade</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/199.png" num="211">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/199.png" num="211">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3728,7 +3728,7 @@ Equip— {1}, Remove all counters from Broken Blade</text>
 			<name>Zac, Born To Bounce!</name>
 			<text>Zac enters with twice X+1/+1 counters on him.
 When Zac enters, return any number of target creatures with total power less than his toughness to their owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/200.png" num="46">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/200.png" num="46">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3747,7 +3747,7 @@ When Zac enters, return any number of target creatures with total power less tha
 			<text>Trample
 Crew 3 
 Only Yordles can crew Tristy.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/201.png" num="10">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/201.png" num="10">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3763,7 +3763,7 @@ Only Yordles can crew Tristy.</text>
 		<card>
 			<name>Desert LOL</name>
 			<text></text>
-			<set rarity="common" picurl="https://MSE Hub Site/sets/LOL-files/img/202.png" num="11">LOL</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/LOL-files/img/202.png" num="11">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3780,7 +3780,7 @@ Only Yordles can crew Tristy.</text>
 			<text>Affinity for Mountains
 Counters on each equipment you control affect its equipped creature as though those counters were on that creature instead.
 {R}{R}{R}: Put your choice of a vigilance, lifelink, haste, trample, first strike, or +1/+1 counter on target equipment you control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/203.png" num="28">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/203.png" num="28">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3798,7 +3798,7 @@ Counters on each equipment you control affect its equipped creature as though th
 			<name>Hecarim, Shadow of War</name>
 			<text>Trample, haste, flanking
 Whenever Hecarim attacks, you may pay {B}{BR}{R} and exile a creature card with lesser power from your graveyard. If you did, for each opponent create a token copy of the exiled creature that enters tapped and attacking that opponent. Exile them at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/204.png" num="87">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/204.png" num="87">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3817,7 +3817,7 @@ Whenever Hecarim attacks, you may pay {B}{BR}{R} and exile a creature card with 
 			<text>Equipped creature gets +2/+2 for each charge counter on The Runic Blade.
 Equipped creature has trample and &quot;Sacrifice The Runic Blade: This creature deals damage equal to its power to each blocking creature defending player controls. Remove it from combat.&quot; while attacking.
 Equip {R}{G}{W}</text>
-			<set rarity="rare" picurl="https://MSE Hub Site/sets/LOL-files/img/205.png" num="213">LOL</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/LOL-files/img/205.png" num="213">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3834,7 +3834,7 @@ Equip {R}{G}{W}</text>
 			<text>Dash {3}{R}{G}{W}
 Trample, Reach
 When Jarvan IV enters, create two white 1/1 Human creature tokens, then put a +1/+1 counter on him for each other Human you control.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/206.png" num="92">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/206.png" num="92">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3856,7 +3856,7 @@ Snakes you control have deathtouch and ward {1}.
 Birds you control have flying and can&apos;t be blocked.
 Spirits you control have exalted and can&apos;t attack.
 Whenever Udyr attacks or blocks, choose a creature type. Udyr gains that creature type until another type is chosen this way.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/207.png" num="183">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/207.png" num="183">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3874,7 @@ Whenever Udyr attacks or blocks, choose a creature type. Udyr gains that creatur
 			<name>Cecil B. Heimerdinger</name>
 			<text>Artifact creature spells you cast have demonstrate. (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)
 Artifact creatures you control have ward {1} and &quot;Whenever this creature deals combat damage to an opponent, gain control of target artifact that player controls with lesser mana value.&quot;</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/208.png" num="66">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/208.png" num="66">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3893,7 +3893,7 @@ Artifact creatures you control have ward {1} and &quot;Whenever this creature de
 			<text>Partner with Illaoi, Kraken Priestess
 Indestructible, ward {8}
 Kraken, Leviathan, Octopus, and/or Serpent creatures you control have base power and toughness 8/8, and have trample and hexproof from noncreatures.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/209.png" num="198">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/209.png" num="198">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3910,7 +3910,7 @@ Kraken, Leviathan, Octopus, and/or Serpent creatures you control have base power
 			<name>Gragas, the Rabble Rouser</name>
 			<text>If Gragas would be dealt damage, prevent X of that damage, where X is the number of Food you control.
 Sacrifice a Food: Gragas gets +1/+1 for each Food you control and gains trample, until end of turn.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/210.png" num="84">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/210.png" num="84">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3928,7 +3928,7 @@ Sacrifice a Food: Gragas gets +1/+1 for each Food you control and gains trample,
 			<name>Lissandra, the Ice Witch</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, tap target creature.
 If a nonsnow creature would untap, its controller may pay {1} instead. If they do, untap it.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/211.png" num="7">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/211.png" num="7">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3948,7 +3948,7 @@ If a nonsnow creature would untap, its controller may pay {1} instead. If they d
 Destroy any number of target creatures with different mana costs.
 Put any number of target creatures cards with different mana costs from graveyards into play.
 Escape—{B}{B}{B}{B}{B}, pay 10 life, exile 10 other cards from your graveyard.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/212.png" num="188">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/212.png" num="188">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3966,7 +3966,7 @@ Escape—{B}{B}{B}{B}{B}, pay 10 life, exile 10 other cards from your graveyard.
 			<text>Suspend 9—{U}
 Whenever a time counter is removed from Zilean for the first time each turn while he&apos;s exiled, time travel. 
 If you would remove the last time counter from a card you own, you may instead put three time counters on it and draw two cards.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/213.png" num="15">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/213.png" num="15">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3985,7 +3985,7 @@ If you would remove the last time counter from a card you own, you may instead p
 			<text>Whenever a Rebel you control deals combat damage to a player, put a time counter on Ekko. 
 At the beginning of your first upkeep each turn, you get an additional upkeep step after this step for each time counter on Ekko.
 {UR}{B}: Exile Ekko with two time counters.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/214.png" num="196">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/214.png" num="196">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4004,7 +4004,7 @@ At the beginning of your first upkeep each turn, you get an additional upkeep st
 			<text>Suspend
 Whenever you begin a step or phase you&apos;ve already taken this turn, create a 2/2 red Rebel creature token. It gains haste until end of turn.
 {UR}{W}: Exile Ekko with two time counters.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/215.png" num="197">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/215.png" num="197">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4022,7 +4022,7 @@ Whenever you begin a step or phase you&apos;ve already taken this turn, create a
 			<name>Neeko, Vastayan Shapesplitter</name>
 			<text>Whenever a nontoken Vastaya creature enters under your control, create a token that&apos;s a copy of that creature except it isn&apos;t legendary. That token gains haste and echo.
 If you control a Vastaya with {W} in its mana cost, Vastaya spells you cast cost {1} less to cast. The same is true for {U}, {B}, {R}, and {G}.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/216.png" num="179">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/216.png" num="179">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4040,7 +4040,7 @@ If you control a Vastaya with {W} in its mana cost, Vastaya spells you cast cost
 			<name>Nidalee, Bestial Huntress</name>
 			<text>First strike, haste, skulk
 When Nidalee deals combat damage to a player, she deals damage equal to her power to up to one target creature they control, then you may return her to your hand.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/217.png" num="122">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/217.png" num="122">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4059,7 +4059,7 @@ When Nidalee deals combat damage to a player, she deals damage equal to her powe
 			<text>Flash, prowl {R}{G}
 When Nidalee enters, destroy target creature that was dealt damage this turn, then she fights up to one other target creature.
 {G}{W}: Transform Nidalee.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/218.png" num="123">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/218.png" num="123">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4077,7 +4077,7 @@ When Nidalee enters, destroy target creature that was dealt damage this turn, th
 			<name>Ezreal, Exceptional Explorer</name>
 			<text>Landfall — Whenever a land you control enters, Ezreal explores. If its a legendary land, he explores twice instead.
 As long as Ezreal has explored five or more times this turn, you can play any number of lands.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/219.png" num="76">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/219.png" num="76">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4096,7 +4096,7 @@ As long as Ezreal has explored five or more times this turn, you can play any nu
 			<text>Devoid, ward {C}{C}
 Deserts you control have &quot;{T}: Create a 1/1 colorless Mite creature token with decayed. If you control seven or more Deserts, create three of those tokens instead.&quot;
 Lands you control and/or land cards you own that can&apos;t produce any color of mana are Deserts in addition to their other types.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/220.png" num="127">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/220.png" num="127">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4113,7 +4113,7 @@ Lands you control and/or land cards you own that can&apos;t produce any color of
 			<name>Jinx, Lets Watch It All Burn!</name>
 			<text>Double strike, menace
 When Jinx deals combat damage to a player, copy each spell among cards in exile with ingenuity counters on them, then cast each copy without paying their mana costs.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/221.png" num="192">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/221.png" num="192">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4131,7 +4131,7 @@ When Jinx deals combat damage to a player, copy each spell among cards in exile 
 			<name>Jinx, the Recipe for Disaster</name>
 			<text>Haste
 Whenever Jinx attacks, shuffle your library, then exile the top card with an ingenuity counter. Then if there are 5 or more spells with different mana values among cards exiled with ingenuity counters, transform her.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/222.png" num="193">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/222.png" num="193">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4150,7 +4150,7 @@ Whenever Jinx attacks, shuffle your library, then exile the top card with an ing
 			<text>Partner with Vex, the Gloomist
 Shadow, hexproof from multicolored
 Shadow&apos;s power is equal to the number of nonblack mana symbols on the battlefield.</text>
-			<set rarity="mythic" picurl="https://MSE Hub Site/sets/LOL-files/img/223.png" num="189">LOL</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/LOL-files/img/223.png" num="189">LOL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
