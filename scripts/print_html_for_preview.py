@@ -155,12 +155,12 @@ def generateHTML(setCode):
 		.grid-container {
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-			gap: 2px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-bottom: 1%;
-			justify-items: center;
-			max-width: 1200px;
+			<!--gap: 2px;-->
+			<!--padding-left: 5%;-->
+			<!--padding-right: 5%;-->
+			<!--padding-bottom: 1%;-->
+			<!--justify-items: center;-->
+			<!--max-width: 1200px;-->
 		}
 		.grid-container img {
 			width: 100%;

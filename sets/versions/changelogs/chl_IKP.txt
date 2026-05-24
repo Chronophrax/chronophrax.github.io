@@ -1,4 +1,39 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Shari, Serpent Isles Navigator added.
+
+Serpent Isles Navigator removed.
+
+Tanna, Voice of the Sea
+type: Legendary Creature — Human Pirate Cleric => Legendary Creature — Human Cleric Pirate
+
+Shipwreck Hoarder
+cost: {U}{U}{U}{U} => {1}{U}{U}{U}
+
+Fear What Hungers
+cost: {2}{U}{U} => {1}{U}{U}
+
+Tauulo, Buhru Leader
+type: Legendary Creature — Human Pirate Cleric => Legendary Creature — Human Cleric Pirate
+
+Blessings of the Marai
+rules_text: When this enchantment enters, create X 1/1 colorless Shapeshifter creature tokens with changeling.
+Creature tokens you control have
+“{T}: Add one mana of any color.” => When Blessings of the Marai enters, create X 1/1 colorless Shapeshifter creature tokens with changeling.
+Creature tokens you control have
+“{T}: Add one mana of any color.”
+
+Diana, Cleric of Dark Water
+type: Legendary Creature — Human Pirate Cleric => Legendary Creature — Human Cleric Pirate
+
+Swain, Crowsnest Captain
+rules_text: As an additional cost to cast blue and green spells, you may put any number of cards from your hand on the bottom of your library. Spells cast this way cost {G}{U} less to cast for each card.
+When you cast a blue and green spell, Swain gains flying and gets +4/+4 until end of turn. => As an additional cost to cast blue and green spells, you may put any number of cards from your hand on the bottom of your library. Spells cast this way cost {G}{U} less to cast for each card that left your hand this way.
+When you cast a blue and green spell, Swain gets +2/+2 and gains flying until end of turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

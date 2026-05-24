@@ -68,7 +68,7 @@
     },
     {
         "card_name": "Serpent of the Pass",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -550,7 +550,7 @@
     },
     {
         "card_name": "Serpent of the Pass",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -558,11 +558,19 @@
     },
     {
         "card_name": "Serpent of Yawning Depths",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "72"
+    },
+    {
+        "card_name": "Shari, Serpent Isles Navigator",
+        "number": 20,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "9"
     },
     {
         "card_name": "Spawn of Iascylla",
@@ -667,14 +675,6 @@
         "set": "IKP",
         "rotated": false,
         "position": "37"
-    },
-    {
-        "card_name": "Serpent Isles Navigator",
-        "number": 18,
-        "shape": "normal",
-        "set": "IKP",
-        "rotated": false,
-        "position": "9"
     },
     {
         "card_name": "Sunk Cost Teachings",
@@ -1059,6 +1059,14 @@
         "position": "65"
     },
     {
+        "card_name": "Shari, Serpent Isles Navigator",
+        "number": 20,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "9"
+    },
+    {
         "card_name": "Blessings of the Marai",
         "number": 31,
         "shape": "normal",
@@ -1121,14 +1129,6 @@
         "set": "IKP",
         "rotated": false,
         "position": "92"
-    },
-    {
-        "card_name": "Serpent Isles Navigator",
-        "number": 18,
-        "shape": "normal",
-        "set": "IKP",
-        "rotated": false,
-        "position": "9"
     },
     {
         "card_name": "Shipwreck Hoarder",

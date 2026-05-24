@@ -171,13 +171,13 @@ For each creature attacking you, reveal the bottom card of your library, if its 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Serpent Isles Navigator</name>
-			<text>Islands you control have &quot;{T}: Add {U}{U}. Spend this mana only to cast a sea monster spell.&quot; (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
-			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/9.png" num="18">IKP</set>
+			<name>Shari, Serpent Isles Navigator</name>
+			<text>Islands you control have &quot;{T}: Add {U}{U}. Spend this mana only to cast a Lesson and/or sea monster spell.&quot; (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/9.png" num="20">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Pirate Cleric</type>
+				<type>Legendary Creature — Human Cleric Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -387,7 +387,7 @@ Whenever Vicious Platewyrm blocks, it gets +2/+2 and gains trample until the end
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Pirate Cleric</type>
+				<type>Legendary Creature — Human Cleric Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>GGUU</manacost>
 				<cmc>4</cmc>
@@ -425,7 +425,7 @@ Whenever an attacking creature is dealt lethal combat damage, its controller cho
 				<side>front</side>
 				<type>Creature — Serpent</type>
 				<maintype>Creature</maintype>
-				<manacost>UUUU</manacost>
+				<manacost>1UUU</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -670,8 +670,8 @@ Whenever this creature blocks, tap it. If you did, exile target creature it bloc
 				<side>front</side>
 				<type>Instant — Lesson</type>
 				<maintype>Instant</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -721,7 +721,7 @@ Whenever you cast Lesson spell, untap each creature you control.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Pirate Cleric</type>
+				<type>Legendary Creature — Human Cleric Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>1GGU</manacost>
 				<cmc>4</cmc>
@@ -1261,7 +1261,7 @@ At the beginning of each end step, if there are three or more quest counters on 
 			<name>Serpent of the Pass</name>
 			<text>If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.
 This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/71.png" num="19">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/71.png" num="18">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1278,7 +1278,7 @@ This spell costs {1} less to cast for each noncreature, nonland card in your gra
 		<card>
 			<name>Serpent of Yawning Depths</name>
 			<text>Sea monsters you control can&apos;t be blocked except by sea monsters.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/72.png" num="20">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/72.png" num="19">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1473,7 +1473,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Blessings of the Marai</name>
-			<text>When this enchantment enters, create X 1/1 colorless Shapeshifter creature tokens with changeling.
+			<text>When Blessings of the Marai enters, create X 1/1 colorless Shapeshifter creature tokens with changeling.
 Creature tokens you control have
 &quot;{T}: Add one mana of any color.&quot;</text>
 			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/84.png" num="31">IKP</set>
@@ -1705,7 +1705,7 @@ Spells your opponents cast have &quot;As an additional cost to cast this spell, 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Pirate Cleric</type>
+				<type>Legendary Creature — Human Cleric Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>3UU</manacost>
 				<cmc>5</cmc>
@@ -1755,8 +1755,8 @@ Whenever an opponent sacrifices a Treasure, they lose 3 life and you create a ta
 		</card>
 		<card>
 			<name>Swain, Crowsnest Captain</name>
-			<text>As an additional cost to cast blue and green spells, you may put any number of cards from your hand on the bottom of your library. Spells cast this way cost {G}{U} less to cast for each card.
-When you cast a blue and green spell, Swain gains flying and gets +4/+4 until end of turn.</text>
+			<text>As an additional cost to cast blue and green spells, you may put any number of cards from your hand on the bottom of your library. Spells cast this way cost {G}{U} less to cast for each card that left your hand this way.
+When you cast a blue and green spell, Swain gets +2/+2 and gains flying until end of turn.</text>
 			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/100.png" num="73">IKP</set>
 			<prop>
 				<layout>normal</layout>
