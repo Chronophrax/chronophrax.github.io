@@ -1,4 +1,29 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Disciple of the Bearded Lady added.
+Manifestation of the Mother added.
+The Voice Below the Waves added.
+Mother Serpent's Formless Blade added.
+Unfathomable Plunder added.
+
+Disciple of Orvar removed.
+Orvar, the All Form removed.
+Quest for Ula's Temple removed.
+Orvar's Formless Blade removed.
+Unimaginable Plunder removed.
+
+The Test of Spirit
+rules_text: Each opponent creates The Vessel, a legendary 0/* Spirit creature token with:
+• The Vessel's toughness is equal to your life total, it can't attack, and it must block if able.
+• Whenever The Vessel is dealt combat damage, you lose that much life.
+• Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt. => Each opponent creates The Vessel, a legendary 0/* Spirit creature token with:
+• “The Vessel's toughness is equal to your life total, it can't attack, and it must block if able.”
+• “Whenever The Vessel is dealt combat damage, you lose that much life.”
+• “Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.”
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Tanna, Voice of the Sea added.

@@ -5,7 +5,7 @@
 			<name>IKP</name>
 			<longname>Illaoi, The Kraken Priestess</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-22</releasedate>
+			<releasedate>2026-05-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -173,7 +173,7 @@ For each creature attacking you, reveal the bottom card of your library, if its 
 		<card>
 			<name>Serpent Isles Navigator</name>
 			<text>Islands you control have &quot;{T}: Add {U}{U}. Spend this mana only to cast a sea monster spell.&quot; (Krakens, Leviathans, Octopuses, and Serpents are sea monsters)</text>
-			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/9.png" num="16">IKP</set>
+			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/9.png" num="15">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -278,7 +278,7 @@ You may play lands and cast sea monster spells from the bottom of your library. 
 		<card>
 			<name>Sunk Cost Teachings</name>
 			<text>Target spell&apos;s controller puts it on the bottom of their library unless they pay {1} for each sea monster you control. If they do, draw the bottom card of your library.</text>
-			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/15.png" num="23">IKP</set>
+			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/15.png" num="22">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -311,9 +311,9 @@ You may play lands and cast sea monster spells from the bottom of your library. 
 		<card>
 			<name>The Test of Spirit</name>
 			<text>Each opponent creates The Vessel, a legendary 0/* Spirit creature token with:
-• The Vessel&apos;s toughness is equal to your life total, it can&apos;t attack, and it must block if able.
-• Whenever The Vessel is dealt combat damage, you lose that much life.
-• Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.</text>
+• &quot;The Vessel&apos;s toughness is equal to your life total, it can&apos;t attack, and it must block if able.&quot;
+• &quot;Whenever The Vessel is dealt combat damage, you lose that much life.&quot;
+• &quot;Whenever another creature you control deals combat damage, if its attacking, put a -1/-1 counter on The Vessel for each 1 damage dealt.&quot;</text>
 			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/17.png" num="71">IKP</set>
 			<prop>
 				<layout>normal</layout>
@@ -419,7 +419,7 @@ Protection from vehicles
 Whenever an attacking creature is dealt lethal combat damage, its controller chooses one—
 • Put it on the bottom of its owner&apos;s library.
 • You create two tapped treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/23.png" num="19">IKP</set>
+			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/23.png" num="18">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -937,9 +937,9 @@ Prevent all combat damage that would be dealt to you this turn by attacking crea
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Disciple of Orvar</name>
+			<name>Disciple of the Bearded Lady</name>
 			<text>Changeling, convoke
-You may have Disciple of Orvar enter as a copy of any creature on the battlefield, except it has changeling.</text>
+You may have this creature enter as a copy of any creature on the battlefield, except it has changeling.</text>
 			<set rarity="uncommon" picurl="https://chronophrax.github.io/sets/IKP-files/img/53.png" num="6">IKP</set>
 			<prop>
 				<layout>normal</layout>
@@ -955,11 +955,11 @@ You may have Disciple of Orvar enter as a copy of any creature on the battlefiel
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Orvar, the All Form</name>
+			<name>Manifestation of the Mother</name>
 			<text>Changeling
 Whenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that&apos;s a copy of one of those permanents.
 When a spell or ability an opponent controls causes you to discard this card, create a token that&apos;s a copy of target permanent.</text>
-			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/54.png" num="13">IKP</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/54.png" num="11">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1193,7 +1193,7 @@ Sacrifice another Serpent: Choose one —
 			<name>Monstrosity of the Lake</name>
 			<text>When Monstrosity of the Lake enters, you may pay {5}. If you do, tap all creatures your opponents control, then put a stun counter on each of those creatures.
 Islandcycling {2}</text>
-			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/67.png" num="11">IKP</set>
+			<set rarity="mythic" picurl="https://chronophrax.github.io/sets/IKP-files/img/67.png" num="12">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1210,7 +1210,7 @@ Islandcycling {2}</text>
 		<card>
 			<name>Octopus Form</name>
 			<text>Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://chronophrax.github.io/sets/IKP-files/img/68.png" num="12">IKP</set>
+			<set rarity="common" picurl="https://chronophrax.github.io/sets/IKP-files/img/68.png" num="13">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,10 +1224,10 @@ Islandcycling {2}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Quest for Ula&apos;s Temple</name>
+			<name>The Voice Below the Waves</name>
 			<text>At the beginning of your upkeep, you may look at the top card of your library. If it&apos;s a creature card, you may reveal it and put a quest counter on this enchantment.
 At the beginning of each end step, if there are three or more quest counters on this enchantment, you may put a sea monster creature card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/69.png" num="14">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/69.png" num="24">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1243,7 +1243,7 @@ At the beginning of each end step, if there are three or more quest counters on 
 		<card>
 			<name>Scourge of Fleets</name>
 			<text>When Scourge of Fleets enters, return each creature your opponents control with toughness X or less to its owner&apos;s hand, where X is the number of Islands you control.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/70.png" num="15">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/70.png" num="14">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1261,7 +1261,7 @@ At the beginning of each end step, if there are three or more quest counters on 
 			<name>Serpent of the Pass</name>
 			<text>If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.
 This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/71.png" num="17">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/71.png" num="16">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1278,7 +1278,7 @@ This spell costs {1} less to cast for each noncreature, nonland card in your gra
 		<card>
 			<name>Serpent of Yawning Depths</name>
 			<text>Sea monsters you control can&apos;t be blocked except by sea monsters.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/72.png" num="18">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/72.png" num="17">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1295,7 +1295,7 @@ This spell costs {1} less to cast for each noncreature, nonland card in your gra
 		<card>
 			<name>Spawning Kraken</name>
 			<text>Whenever a sea monster you control deals combat damage to a player, create a 9/9 blue Kraken creature token.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/73.png" num="21">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/73.png" num="20">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1313,7 +1313,7 @@ This spell costs {1} less to cast for each noncreature, nonland card in your gra
 			<name>Stormsurge Kraken</name>
 			<text>Hexproof
 Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/+2 and has &quot;Whenever this creature becomes blocked, you may draw two cards.&quot;</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/74.png" num="22">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/74.png" num="21">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1331,7 +1331,7 @@ Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/
 			<name>Trench Behemoth</name>
 			<text>Return a land you control to its owner&apos;s hand: Untap Trench Behemoth. It gains hexproof until end of turn.
 Landfall — Whenever a land you control enters, target creature an opponent controls attacks during its controller&apos;s next combat phase if able.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/75.png" num="24">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/75.png" num="23">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1380,7 +1380,7 @@ Landfall — Whenever a land you control enters, you may draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Orvar&apos;s Formless Blade</name>
+			<name>Mother Serpent&apos;s Formless Blade</name>
 			<text>When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling.
 Equipped creature gets +1/+1 and is all creature types.
 Equip {2}</text>
@@ -1496,7 +1496,7 @@ Spawn of Iascylla can&apos;t be countered.
 Whenever you cast a spell, choose up to one —
 • Return target spell you don&apos;t control to its owner&apos;s hand.
 • Return target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/85.png" num="20">IKP</set>
+			<set rarity="rare" picurl="https://chronophrax.github.io/sets/IKP-files/img/85.png" num="19">IKP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1595,7 +1595,7 @@ You may cast a spell with mana value 5 or less from your hand without paying its
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Unimaginable Plunder</name>
+			<name>Unfathomable Plunder</name>
 			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you control.
 {T}: Add {G}{G}. You gain 2 life.
 Whenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.</text>
