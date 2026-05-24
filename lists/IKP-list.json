@@ -44,7 +44,7 @@
     "a->Lessons",
     {
         "card_name": "The Leap of Faith",
-        "number": 56,
+        "number": 61,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -52,7 +52,7 @@
     },
     {
         "card_name": "The Riptide Sermon",
-        "number": 63,
+        "number": 68,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -60,7 +60,7 @@
     },
     {
         "card_name": "The Test of Spirit",
-        "number": 71,
+        "number": 77,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -68,7 +68,7 @@
     },
     {
         "card_name": "Serpent of the Pass",
-        "number": 16,
+        "number": 19,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -76,7 +76,7 @@
     },
     {
         "card_name": "Great Mother's Invocation",
-        "number": 46,
+        "number": 51,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -84,7 +84,7 @@
     },
     {
         "card_name": "Harsh Lesson",
-        "number": 47,
+        "number": 52,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -92,7 +92,7 @@
     },
     {
         "card_name": "Tauulo, Buhru Leader",
-        "number": 69,
+        "number": 75,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -100,7 +100,7 @@
     },
     {
         "card_name": "Truth Bearer's Teachings",
-        "number": 72,
+        "number": 78,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -116,7 +116,7 @@
     },
     {
         "card_name": "Fear What Hungers",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -124,7 +124,7 @@
     },
     {
         "card_name": "Sunk Cost Teachings",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -132,7 +132,7 @@
     },
     {
         "card_name": "Always Recover the Cargo",
-        "number": 37,
+        "number": 41,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -140,7 +140,7 @@
     },
     {
         "card_name": "Recall Those Who Failed",
-        "number": 61,
+        "number": 66,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -148,7 +148,7 @@
     },
     {
         "card_name": "Octopus Form",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -156,7 +156,7 @@
     },
     {
         "card_name": "Eccentric Explorer",
-        "number": 43,
+        "number": 47,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -177,15 +177,23 @@
     "a->Attack Matters",
     {
         "card_name": "Angel, Adamant Brawler",
-        "number": 38,
+        "number": 42,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "35"
     },
     {
-        "card_name": "Iascylla, Matron of Monsters",
+        "card_name": "Fiddle, Terror of the Tides",
         "number": 48,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Iascylla, Matron of Monsters",
+        "number": 53,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -193,7 +201,7 @@
     },
     {
         "card_name": "Loa, The Buhru Lookout",
-        "number": 57,
+        "number": 62,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -201,7 +209,7 @@
     },
     {
         "card_name": "Mindshirk Cephalid",
-        "number": 58,
+        "number": 63,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -209,7 +217,7 @@
     },
     {
         "card_name": "Nagakabouros, Resplendent",
-        "number": 59,
+        "number": 64,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -217,7 +225,7 @@
     },
     {
         "card_name": "Sefirsa, Scourge of the Deep",
-        "number": 65,
+        "number": 70,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -225,7 +233,7 @@
     },
     {
         "card_name": "Something in the Water",
-        "number": 67,
+        "number": 72,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -233,7 +241,7 @@
     },
     {
         "card_name": "Butcher's Bridge",
-        "number": 79,
+        "number": 87,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -249,7 +257,7 @@
     },
     {
         "card_name": "Stormsurge Kraken",
-        "number": 21,
+        "number": 24,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -257,7 +265,7 @@
     },
     {
         "card_name": "Trench Behemoth",
-        "number": 23,
+        "number": 26,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -265,7 +273,7 @@
     },
     {
         "card_name": "Treacherous Waters",
-        "number": 32,
+        "number": 36,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -273,7 +281,7 @@
     },
     {
         "card_name": "Allure of the Abyss",
-        "number": 36,
+        "number": 40,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -281,7 +289,7 @@
     },
     {
         "card_name": "Desolate Circumstance",
-        "number": 42,
+        "number": 46,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -289,7 +297,7 @@
     },
     {
         "card_name": "Five-Punch Pablo",
-        "number": 44,
+        "number": 49,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -297,15 +305,31 @@
     },
     {
         "card_name": "Frenzied Feasting",
-        "number": 45,
+        "number": 50,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "33"
     },
     {
+        "card_name": "Great Mother's Invocation",
+        "number": 51,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Harsh Lesson",
+        "number": 52,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "10"
+    },
+    {
         "card_name": "Redwing Hammersnout",
-        "number": 62,
+        "number": 67,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -313,7 +337,7 @@
     },
     {
         "card_name": "Sink to the Bottom",
-        "number": 66,
+        "number": 71,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -321,15 +345,31 @@
     },
     {
         "card_name": "Tempestuous Travels",
-        "number": 70,
+        "number": 76,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "50"
     },
     {
+        "card_name": "Truth Bearer's Teachings",
+        "number": 78,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Life in Bilgewater",
+        "number": 81,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "102"
+    },
+    {
         "card_name": "Pilfered Goods",
-        "number": 77,
+        "number": 84,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -353,7 +393,7 @@
     },
     {
         "card_name": "Shipwreck Hoarder",
-        "number": 18,
+        "number": 21,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -361,7 +401,7 @@
     },
     {
         "card_name": "Parasitic Sharkling",
-        "number": 60,
+        "number": 65,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -369,7 +409,7 @@
     },
     {
         "card_name": "Vicious Platewyrm",
-        "number": 73,
+        "number": 79,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -390,7 +430,7 @@
     "a->Sea Monsters",
     {
         "card_name": "Manifestation of the Mother",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -398,7 +438,7 @@
     },
     {
         "card_name": "Monstrosity of the Lake",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -406,7 +446,7 @@
     },
     {
         "card_name": "Aesi, Tyrant of Gyre Strait",
-        "number": 35,
+        "number": 39,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -414,7 +454,7 @@
     },
     {
         "card_name": "The Beast From Below",
-        "number": 40,
+        "number": 44,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -422,7 +462,7 @@
     },
     {
         "card_name": "Iascylla, Matron of Monsters",
-        "number": 48,
+        "number": 53,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -430,7 +470,7 @@
     },
     {
         "card_name": "Kiora, Master of the Depths",
-        "number": 52,
+        "number": 57,
         "shape": "planeswalker",
         "set": "IKP",
         "rotated": false,
@@ -438,7 +478,7 @@
     },
     {
         "card_name": "Kiora, Sovereign of the Deep",
-        "number": 53,
+        "number": 58,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -446,7 +486,7 @@
     },
     {
         "card_name": "Kiora, the Crashing Wave",
-        "number": 54,
+        "number": 59,
         "shape": "planeswalker",
         "set": "IKP",
         "rotated": false,
@@ -454,7 +494,7 @@
     },
     {
         "card_name": "Koma, Cosmos Serpent",
-        "number": 55,
+        "number": 60,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -462,7 +502,7 @@
     },
     {
         "card_name": "Sabdas, Storm Scourge",
-        "number": 64,
+        "number": 69,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -470,7 +510,7 @@
     },
     {
         "card_name": "Tanna, Voice of the Sea",
-        "number": 68,
+        "number": 74,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -478,7 +518,7 @@
     },
     {
         "card_name": "The Slaughterdocks",
-        "number": 86,
+        "number": 94,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -486,7 +526,7 @@
     },
     {
         "card_name": "Kenessos, Oracle of the Marai",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -494,7 +534,7 @@
     },
     {
         "card_name": "Leo'lei Tidesoul",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -502,7 +542,7 @@
     },
     {
         "card_name": "Scourge of Fleets",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -510,7 +550,7 @@
     },
     {
         "card_name": "Serpent of the Pass",
-        "number": 16,
+        "number": 19,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -518,7 +558,7 @@
     },
     {
         "card_name": "Serpent of Yawning Depths",
-        "number": 17,
+        "number": 20,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -526,7 +566,7 @@
     },
     {
         "card_name": "Spawn of Iascylla",
-        "number": 19,
+        "number": 22,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -534,7 +574,7 @@
     },
     {
         "card_name": "Spawning Kraken",
-        "number": 20,
+        "number": 23,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -542,7 +582,7 @@
     },
     {
         "card_name": "The Voice Below the Waves",
-        "number": 24,
+        "number": 28,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -550,7 +590,7 @@
     },
     {
         "card_name": "Whelming Wave",
-        "number": 25,
+        "number": 29,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -558,7 +598,7 @@
     },
     {
         "card_name": "Blessings of the Marai",
-        "number": 27,
+        "number": 31,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -566,7 +606,7 @@
     },
     {
         "card_name": "Arixmethes, Slumbering Isle",
-        "number": 39,
+        "number": 43,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -574,7 +614,7 @@
     },
     {
         "card_name": "Deepwater Scourge",
-        "number": 41,
+        "number": 45,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -582,7 +622,7 @@
     },
     {
         "card_name": "Tauulo, Buhru Leader",
-        "number": 69,
+        "number": 75,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -590,7 +630,7 @@
     },
     {
         "card_name": "Ripper's Bay",
-        "number": 85,
+        "number": 93,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -598,7 +638,7 @@
     },
     {
         "card_name": "Wrecker's Bay",
-        "number": 90,
+        "number": 98,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -606,7 +646,7 @@
     },
     {
         "card_name": "Disciple of the Bearded Lady",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -614,7 +654,7 @@
     },
     {
         "card_name": "Ensnared by Tentacles",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -622,7 +662,7 @@
     },
     {
         "card_name": "Fear What Hungers",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -630,7 +670,7 @@
     },
     {
         "card_name": "Serpent Isles Navigator",
-        "number": 15,
+        "number": 18,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -638,7 +678,7 @@
     },
     {
         "card_name": "Sunk Cost Teachings",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -646,7 +686,7 @@
     },
     {
         "card_name": "Thrash of Nagakabouros",
-        "number": 31,
+        "number": 35,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -654,7 +694,7 @@
     },
     {
         "card_name": "Abyssal Eye",
-        "number": 34,
+        "number": 38,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -662,7 +702,7 @@
     },
     {
         "card_name": "Inspirited Idol",
-        "number": 49,
+        "number": 54,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -670,7 +710,7 @@
     },
     {
         "card_name": "Jaull-fish",
-        "number": 50,
+        "number": 55,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -678,7 +718,7 @@
     },
     {
         "card_name": "Kharox, Soulshape Vagrant",
-        "number": 51,
+        "number": 56,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -686,7 +726,7 @@
     },
     {
         "card_name": "Mother Serpent's Formless Blade",
-        "number": 76,
+        "number": 83,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -694,7 +734,7 @@
     },
     {
         "card_name": "Platewyrm Cocoon",
-        "number": 78,
+        "number": 85,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -715,10 +755,213 @@
     {
         "card_name": "er"
     },
+    "a->Bottom Card",
+    {
+        "card_name": "Diana, Cleric of Dark Water",
+        "number": 6,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Vlad, Warlock of Dark Water",
+        "number": 27,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "The Beast From Below",
+        "number": 44,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Fiddle, Terror of the Tides",
+        "number": 48,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Kiora, Sovereign of the Deep",
+        "number": 58,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Loa, The Buhru Lookout",
+        "number": 62,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Nagakabouros, Resplendent",
+        "number": 64,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "The Riptide Sermon",
+        "number": 68,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Sefirsa, Scourge of the Deep",
+        "number": 70,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Something in the Water",
+        "number": 72,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Swain, Crowsnest Captain",
+        "number": 73,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "The Slaughterdocks",
+        "number": 94,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Kenessos, Oracle of the Marai",
+        "number": 10,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Leo'lei Tidesoul",
+        "number": 11,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Deepwater Scourge",
+        "number": 45,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Frenzied Feasting",
+        "number": 50,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Sink to the Bottom",
+        "number": 71,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Truth Bearer's Teachings",
+        "number": 78,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Shipwreck Hoarder",
+        "number": 21,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Sunk Cost Teachings",
+        "number": 25,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Abyssal Eye",
+        "number": 38,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Always Recover the Cargo",
+        "number": 41,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Recall Those Who Failed",
+        "number": 66,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->High Power",
     {
         "card_name": "Bargain With Beasties",
-        "number": 26,
+        "number": 30,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -726,7 +969,7 @@
     },
     {
         "card_name": "Drive Towards Destiny",
-        "number": 28,
+        "number": 32,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -734,7 +977,7 @@
     },
     {
         "card_name": "The Storm That is Life",
-        "number": 30,
+        "number": 34,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -760,8 +1003,32 @@
     },
     "a->Ramp",
     {
+        "card_name": "Pyke, Swimming City's Ripper",
+        "number": 15,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Ryze, Ruinous Plunderer",
+        "number": 16,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Vlad, Warlock of Dark Water",
+        "number": 27,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "98"
+    },
+    {
         "card_name": "Unfathomable Plunder",
-        "number": 33,
+        "number": 37,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -769,7 +1036,7 @@
     },
     {
         "card_name": "Aesi, Tyrant of Gyre Strait",
-        "number": 35,
+        "number": 39,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -777,7 +1044,7 @@
     },
     {
         "card_name": "Kiora, Master of the Depths",
-        "number": 52,
+        "number": 57,
         "shape": "planeswalker",
         "set": "IKP",
         "rotated": false,
@@ -785,7 +1052,7 @@
     },
     {
         "card_name": "Kiora, the Crashing Wave",
-        "number": 54,
+        "number": 59,
         "shape": "planeswalker",
         "set": "IKP",
         "rotated": false,
@@ -793,7 +1060,7 @@
     },
     {
         "card_name": "Blessings of the Marai",
-        "number": 27,
+        "number": 31,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -801,7 +1068,7 @@
     },
     {
         "card_name": "Settle the Serpent Isles",
-        "number": 29,
+        "number": 33,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -809,7 +1076,7 @@
     },
     {
         "card_name": "Treacherous Waters",
-        "number": 32,
+        "number": 36,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -817,7 +1084,7 @@
     },
     {
         "card_name": "Allure of the Abyss",
-        "number": 36,
+        "number": 40,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -825,7 +1092,7 @@
     },
     {
         "card_name": "Arixmethes, Slumbering Isle",
-        "number": 39,
+        "number": 43,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -833,15 +1100,23 @@
     },
     {
         "card_name": "Five-Punch Pablo",
-        "number": 44,
+        "number": 49,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "34"
     },
     {
+        "card_name": "Life in Bilgewater",
+        "number": 81,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "102"
+    },
+    {
         "card_name": "Pilfered Goods",
-        "number": 77,
+        "number": 84,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -849,7 +1124,7 @@
     },
     {
         "card_name": "Serpent Isles Navigator",
-        "number": 15,
+        "number": 18,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -857,7 +1132,7 @@
     },
     {
         "card_name": "Shipwreck Hoarder",
-        "number": 18,
+        "number": 21,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -865,7 +1140,7 @@
     },
     {
         "card_name": "Abyssal Eye",
-        "number": 34,
+        "number": 38,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -873,7 +1148,7 @@
     },
     {
         "card_name": "Jaull-fish",
-        "number": 50,
+        "number": 55,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -881,7 +1156,7 @@
     },
     {
         "card_name": "Kiora, Behemoth Beckoner",
-        "number": 74,
+        "number": 80,
         "shape": "planeswalker",
         "set": "IKP",
         "rotated": false,
@@ -889,7 +1164,7 @@
     },
     {
         "card_name": "Golden Kraken",
-        "number": 75,
+        "number": 82,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -897,11 +1172,19 @@
     },
     {
         "card_name": "Platewyrm Cocoon",
-        "number": 78,
+        "number": 85,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
         "position": "52"
+    },
+    {
+        "card_name": "Silver Serpent",
+        "number": 86,
+        "shape": "normal",
+        "set": "IKP",
+        "rotated": false,
+        "position": "95"
     },
     {
         "card_name": "e"
@@ -924,7 +1207,7 @@
     "a->Lands",
     {
         "card_name": "Butcher's Bridge",
-        "number": 79,
+        "number": 87,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -932,7 +1215,7 @@
     },
     {
         "card_name": "The Slaughterdocks",
-        "number": 86,
+        "number": 94,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -940,7 +1223,7 @@
     },
     {
         "card_name": "Command Tower",
-        "number": 80,
+        "number": 88,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -948,7 +1231,7 @@
     },
     {
         "card_name": "Hedge Maze",
-        "number": 81,
+        "number": 89,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -956,7 +1239,7 @@
     },
     {
         "card_name": "Rain-Slicked Copse",
-        "number": 82,
+        "number": 90,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -964,7 +1247,7 @@
     },
     {
         "card_name": "Rejuvenating Springs",
-        "number": 83,
+        "number": 91,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -972,7 +1255,7 @@
     },
     {
         "card_name": "Ripper's Bay",
-        "number": 85,
+        "number": 93,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -980,7 +1263,7 @@
     },
     {
         "card_name": "Sodden Verdure",
-        "number": 87,
+        "number": 95,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -988,7 +1271,7 @@
     },
     {
         "card_name": "Turbulent Wilderness",
-        "number": 89,
+        "number": 97,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -996,7 +1279,7 @@
     },
     {
         "card_name": "Wrecker's Bay",
-        "number": 90,
+        "number": 98,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -1004,7 +1287,7 @@
     },
     {
         "card_name": "Rimewood Falls",
-        "number": 84,
+        "number": 92,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -1012,7 +1295,7 @@
     },
     {
         "card_name": "Tangled Islet",
-        "number": 88,
+        "number": 96,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -1020,7 +1303,7 @@
     },
     {
         "card_name": "Island",
-        "number": 91,
+        "number": 99,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
@@ -1028,7 +1311,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 92,
+        "number": 100,
         "shape": "normal",
         "set": "IKP",
         "rotated": false,
